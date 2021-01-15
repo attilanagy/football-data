@@ -1,0 +1,282 @@
+round,date,home_team,away_team,home_score,away_score,stadium,stage
+1,07/20/2018 18:30,FK Dukla Praha,FC Viktoria Plzeň,1,3,Na Julisce,Základní část
+1,07/21/2018 17:00,FC Fastav Zlín,FK Mladá Boleslav,3,2,Letná,Základní část
+1,07/21/2018 17:00,FC Slovan Liberec,MFK Karviná,1,0,Stadión U Nisy,Základní část
+1,07/21/2018 17:00,1.FK Příbram,FK Teplice,1,1,Stadion Na Litavce,Základní část
+1,07/21/2018 19:00,AC Sparta Praha,Slezský FC Opava,2,0,Generali Česká pojišťovna Arena,Základní část
+1,07/22/2018 15:00,Bohemians Praha 1905,1.FC Slovácko,2,1,Ďolíček,Základní část
+1,07/22/2018 18:00,SK Sigma Olomouc,SK Slavia Praha,0,3,Andrův stadión,Základní část
+1,07/23/2018 18:00,FC Baník Ostrava,FK Jablonec,1,0,Městský stadion Ostrava,Základní část
+2,07/27/2018 18:30,FK Mladá Boleslav,SK Sigma Olomouc,0,4,Městský stadion Mladá Boleslav,Základní část
+2,07/28/2018 17:00,1.FK Příbram,Bohemians Praha 1905,4,2,Stadion Na Litavce,Základní část
+2,07/28/2018 17:00,Slezský FC Opava,FC Fastav Zlín,1,2,Městský fotbalový stadión,Základní část
+2,07/28/2018 17:00,1.FC Slovácko,FC Baník Ostrava,2,1,Městský fotbalový stadion Miroslava Valenty,Základní část
+2,07/28/2018 19:00,SK Slavia Praha,MFK Karviná,4,0,Sinobo Stadium,Základní část
+2,07/29/2018 15:00,FK Teplice,FK Dukla Praha,5,2,Na Stínadlech,Základní část
+2,07/29/2018 18:00,FK Jablonec,AC Sparta Praha,1,2,Střelnice,Základní část
+2,07/30/2018 18:00,FC Viktoria Plzeň,FC Slovan Liberec,1,0,Doosan Aréna,Základní část
+3,08/03/2018 18:30,SK Slavia Praha,Slezský FC Opava,3,1,Sinobo Stadium,Základní část
+3,08/04/2018 17:00,FC Baník Ostrava,1.FK Příbram,3,0,Městský stadion Ostrava,Základní část
+3,08/04/2018 17:00,FC Fastav Zlín,FK Jablonec,1,1,Letná,Základní část
+3,08/04/2018 17:00,FC Slovan Liberec,FK Teplice,2,2,Stadión U Nisy,Základní část
+3,08/04/2018 19:00,SK Sigma Olomouc,FC Viktoria Plzeň,0,1,Andrův stadión,Základní část
+3,08/05/2018 15:00,MFK Karviná,FK Mladá Boleslav,3,4,Městský stadion Karviná,Základní část
+3,08/05/2018 18:00,AC Sparta Praha,1.FC Slovácko,1,0,Generali Česká pojišťovna Arena,Základní část
+3,08/06/2018 18:00,FK Dukla Praha,Bohemians Praha 1905,0,1,Na Julisce,Základní část
+4,08/10/2018 18:30,FK Mladá Boleslav,SK Slavia Praha,0,1,Městský stadion Mladá Boleslav,Základní část
+4,08/11/2018 17:00,1.FK Příbram,FK Dukla Praha,4,0,Stadion Na Litavce,Základní část
+4,08/11/2018 17:00,Slezský FC Opava,FC Slovan Liberec,1,1,Městský fotbalový stadión,Základní část
+4,08/11/2018 17:00,FK Jablonec,MFK Karviná,4,1,Střelnice,Základní část
+4,08/11/2018 19:00,FC Viktoria Plzeň,FC Fastav Zlín,1,0,Doosan Aréna,Základní část
+4,08/12/2018 15:00,1.FC Slovácko,SK Sigma Olomouc,3,1,Městský fotbalový stadion Miroslava Valenty,Základní část
+4,08/12/2018 18:00,FK Teplice,AC Sparta Praha,0,4,Na Stínadlech,Základní část
+4,08/13/2018 18:00,Bohemians Praha 1905,FC Baník Ostrava,0,1,Ďolíček,Základní část
+5,08/17/2018 18:30,FK Dukla Praha,1.FC Slovácko,1,2,Na Julisce,Základní část
+5,08/18/2018 17:00,FC Slovan Liberec,Bohemians Praha 1905,1,1,Stadión U Nisy,Základní část
+5,08/18/2018 17:00,FC Fastav Zlín,FK Teplice,1,0,Letná,Základní část
+5,08/18/2018 17:00,FK Mladá Boleslav,Slezský FC Opava,6,1,Městský stadion Mladá Boleslav,Základní část
+5,08/18/2018 19:00,SK Slavia Praha,FK Jablonec,0,2,Sinobo Stadium,Základní část
+5,08/19/2018 15:00,MFK Karviná,FC Viktoria Plzeň,0,1,Městský stadion Karviná,Základní část
+5,08/19/2018 18:00,AC Sparta Praha,1.FK Příbram,2,2,Generali Česká pojišťovna Arena,Základní část
+5,08/20/2018 18:00,SK Sigma Olomouc,FC Baník Ostrava,1,4,Andrův stadión,Základní část
+6,08/24/2018 18:30,Bohemians Praha 1905,AC Sparta Praha,1,1,Ďolíček,Základní část
+6,08/25/2018 17:00,1.FK Příbram,FC Slovan Liberec,1,3,Stadion Na Litavce,Základní část
+6,08/25/2018 17:00,Slezský FC Opava,MFK Karviná,1,3,Městský fotbalový stadión,Základní část
+6,08/25/2018 17:00,FC Baník Ostrava,FK Dukla Praha,2,0,Městský stadion Ostrava,Základní část
+6,08/25/2018 19:00,FK Teplice,SK Slavia Praha,0,3,Na Stínadlech,Základní část
+6,08/26/2018 15:00,FC Viktoria Plzeň,FK Mladá Boleslav,6,1,Doosan Aréna,Základní část
+6,08/26/2018 18:00,FK Jablonec,SK Sigma Olomouc,3,0,Střelnice,Základní část
+6,08/27/2018 18:00,1.FC Slovácko,FC Fastav Zlín,0,4,Městský fotbalový stadion Miroslava Valenty,Základní část
+7,08/31/2018 18:30,AC Sparta Praha,FK Dukla Praha,2,0,Generali Česká pojišťovna Arena,Základní část
+7,09/01/2018 15:00,FC Slovan Liberec,FC Baník Ostrava,0,0,Stadión U Nisy,Základní část
+7,09/01/2018 17:00,FC Fastav Zlín,1.FK Příbram,3,0,Letná,Základní část
+7,09/01/2018 17:00,FK Mladá Boleslav,FK Teplice,1,1,Městský stadion Mladá Boleslav,Základní část
+7,09/01/2018 17:00,Slezský FC Opava,FK Jablonec,2,0,Městský fotbalový stadión,Základní část
+7,09/01/2018 19:00,SK Slavia Praha,FC Viktoria Plzeň,4,0,Sinobo Stadium,Základní část
+7,09/02/2018 15:00,MFK Karviná,1.FC Slovácko,2,1,Městský stadion Karviná,Základní část
+7,09/02/2018 18:00,SK Sigma Olomouc,Bohemians Praha 1905,2,3,Andrův stadión,Základní část
+8,09/14/2018 18:00,Bohemians Praha 1905,FC Fastav Zlín,0,1,Ďolíček,Základní část
+8,09/15/2018 17:00,1.FK Příbram,SK Sigma Olomouc,1,0,Stadion Na Litavce,Základní část
+8,09/15/2018 19:00,FC Viktoria Plzeň,Slezský FC Opava,1,0,Doosan Aréna,Základní část
+8,09/16/2018 15:00,FK Dukla Praha,FC Slovan Liberec,2,0,Na Julisce,Základní část
+8,09/16/2018 15:00,FK Jablonec,FK Mladá Boleslav,0,3,Střelnice,Základní část
+8,09/16/2018 15:00,FK Teplice,MFK Karviná,2,1,Na Stínadlech,Základní část
+8,09/16/2018 18:00,1.FC Slovácko,SK Slavia Praha,1,3,Městský fotbalový stadion Miroslava Valenty,Základní část
+8,09/17/2018 18:00,FC Baník Ostrava,AC Sparta Praha,0,1,Městský stadion Ostrava,Základní část
+9,09/21/2018 18:00,FC Fastav Zlín,FC Baník Ostrava,1,2,Letná,Základní část
+9,09/22/2018 15:00,SK Sigma Olomouc,FK Dukla Praha,1,0,Andrův stadión,Základní část
+9,09/22/2018 17:00,MFK Karviná,1.FK Příbram,4,1,Městský stadion Karviná,Základní část
+9,09/22/2018 17:00,FK Mladá Boleslav,1.FC Slovácko,5,1,Městský stadion Mladá Boleslav,Základní část
+9,09/22/2018 17:00,Slezský FC Opava,FK Teplice,2,0,Městský fotbalový stadión,Základní část
+9,09/22/2018 19:00,AC Sparta Praha,FC Slovan Liberec,4,1,Generali Česká pojišťovna Arena,Základní část
+9,09/23/2018 18:00,SK Slavia Praha,Bohemians Praha 1905,1,0,Sinobo Stadium,Základní část
+9,09/24/2018 18:00,FK Jablonec,FC Viktoria Plzeň,3,0,Střelnice,Základní část
+10,09/28/2018 17:00,Bohemians Praha 1905,MFK Karviná,0,0,Ďolíček,Základní část
+10,09/28/2018 19:00,FC Viktoria Plzeň,AC Sparta Praha,1,0,Doosan Aréna,Základní část
+10,09/29/2018 15:00,FK Dukla Praha,FC Fastav Zlín,1,1,Na Julisce,Základní část
+10,09/29/2018 17:00,1.FK Příbram,FK Mladá Boleslav,3,0,Stadion Na Litavce,Základní část
+10,09/29/2018 17:00,1.FC Slovácko,Slezský FC Opava,0,2,Městský fotbalový stadion Miroslava Valenty,Základní část
+10,09/29/2018 19:00,FC Slovan Liberec,SK Sigma Olomouc,3,0,Stadión U Nisy,Základní část
+10,09/30/2018 15:00,FC Baník Ostrava,SK Slavia Praha,2,1,Městský stadion Ostrava,Základní část
+10,09/30/2018 18:00,FK Teplice,FK Jablonec,1,2,Na Stínadlech,Základní část
+11,10/05/2018 18:00,FC Fastav Zlín,FC Slovan Liberec,0,1,Letná,Základní část
+11,10/06/2018 17:00,FK Mladá Boleslav,FC Baník Ostrava,2,2,Městský stadion Mladá Boleslav,Základní část
+11,10/06/2018 19:00,SK Sigma Olomouc,AC Sparta Praha,1,0,Andrův stadión,Základní část
+11,10/07/2018 15:00,MFK Karviná,FK Dukla Praha,0,2,Městský stadion Karviná,Základní část
+11,10/07/2018 15:00,Slezský FC Opava,Bohemians Praha 1905,0,1,Městský fotbalový stadión,Základní část
+11,10/07/2018 15:00,FK Jablonec,1.FC Slovácko,2,0,Střelnice,Základní část
+11,10/07/2018 15:00,FC Viktoria Plzeň,FK Teplice,1,0,Doosan Aréna,Základní část
+11,10/07/2018 18:00,SK Slavia Praha,1.FK Příbram,4,1,Sinobo Stadium,Základní část
+12,10/19/2018 18:00,Bohemians Praha 1905,FC Viktoria Plzeň,2,2,Ďolíček,Základní část
+12,10/20/2018 15:00,SK Sigma Olomouc,FC Fastav Zlín,1,1,Andrův stadión,Základní část
+12,10/20/2018 17:00,1.FK Příbram,FK Jablonec,0,6,Stadion Na Litavce,Základní část
+12,10/20/2018 17:00,FC Baník Ostrava,MFK Karviná,1,1,Městský stadion Ostrava,Základní část
+12,10/20/2018 17:00,1.FC Slovácko,FK Teplice,0,2,Městský fotbalový stadion Miroslava Valenty,Základní část
+12,10/21/2018 15:00,FK Dukla Praha,Slezský FC Opava,1,0,Na Julisce,Základní část
+12,10/21/2018 17:00,FC Slovan Liberec,SK Slavia Praha,0,1,Stadión U Nisy,Základní část
+12,10/22/2018 18:00,AC Sparta Praha,FK Mladá Boleslav,4,1,Generali Česká pojišťovna Arena,Základní část
+13,10/26/2018 18:00,FK Teplice,FC Baník Ostrava,0,1,Na Stínadlech,Základní část
+13,10/27/2018 15:00,MFK Karviná,SK Sigma Olomouc,2,3,Městský stadion Karviná,Základní část
+13,10/27/2018 15:00,FK Mladá Boleslav,Bohemians Praha 1905,3,0,Městský stadion Mladá Boleslav,Základní část
+13,10/27/2018 15:00,Slezský FC Opava,1.FK Příbram,5,0,Městský stadion Opava,Základní část
+13,10/27/2018 17:00,FC Fastav Zlín,AC Sparta Praha,1,0,Letná,Základní část
+13,10/28/2018 15:00,FC Viktoria Plzeň,1.FC Slovácko,2,1,Doosan Aréna,Základní část
+13,10/28/2018 17:00,FK Jablonec,FC Slovan Liberec,0,0,Střelnice,Základní část
+13,10/29/2018 18:00,SK Slavia Praha,FK Dukla Praha,4,1,Sinobo Stadium,Základní část
+14,11/02/2018 18:00,Bohemians Praha 1905,FK Teplice,2,3,Ďolíček,Základní část
+14,11/03/2018 15:00,FC Baník Ostrava,FC Viktoria Plzeň,0,1,Městský stadion Ostrava,Základní část
+14,11/03/2018 17:00,1.FK Příbram,1.FC Slovácko,0,3,Stadion Na Litavce,Základní část
+14,11/03/2018 17:00,FK Dukla Praha,FK Jablonec,2,6,Na Julisce,Základní část
+14,11/03/2018 17:00,SK Sigma Olomouc,Slezský FC Opava,2,2,Andrův stadión,Základní část
+14,11/03/2018 17:00,FC Fastav Zlín,MFK Karviná,2,1,Letná,Základní část
+14,11/04/2018 17:00,AC Sparta Praha,SK Slavia Praha,2,2,Generali Česká pojišťovna Arena,Základní část
+14,11/05/2018 18:00,FC Slovan Liberec,FK Mladá Boleslav,1,0,Stadión U Nisy,Základní část
+15,11/09/2018 18:00,FK Mladá Boleslav,FK Dukla Praha,0,0,Městský stadion Mladá Boleslav,Základní část
+15,11/10/2018 14:00,MFK Karviná,AC Sparta Praha,1,3,Městský stadion Karviná,Základní část
+15,11/10/2018 17:00,1.FC Slovácko,FC Slovan Liberec,0,1,Městský fotbalový stadion Miroslava Valenty,Základní část
+15,11/11/2018 14:00,Slezský FC Opava,FC Baník Ostrava,2,1,Městský stadion Opava,Základní část
+15,11/11/2018 15:00,FK Jablonec,Bohemians Praha 1905,3,1,Střelnice,Základní část
+15,11/11/2018 15:00,FC Viktoria Plzeň,1.FK Příbram,1,1,Doosan Aréna,Základní část
+15,11/11/2018 15:00,FK Teplice,SK Sigma Olomouc,0,0,Na Stínadlech,Základní část
+15,11/11/2018 17:00,SK Slavia Praha,FC Fastav Zlín,3,1,Sinobo Stadium,Základní část
+16,11/23/2018 18:00,FC Slovan Liberec,FC Viktoria Plzeň,1,1,Stadión U Nisy,Základní část
+16,11/23/2018 18:00,FK Dukla Praha,FK Teplice,1,0,Na Julisce,Základní část
+16,11/24/2018 14:00,MFK Karviná,SK Slavia Praha,1,3,Městský stadion Karviná,Základní část
+16,11/24/2018 17:00,Bohemians Praha 1905,1.FK Příbram,2,2,Ďolíček,Základní část
+16,11/24/2018 17:00,FC Fastav Zlín,Slezský FC Opava,2,0,Letná,Základní část
+16,11/24/2018 17:00,FC Baník Ostrava,1.FC Slovácko,0,3,Městský stadion Ostrava,Základní část
+16,11/25/2018 15:00,SK Sigma Olomouc,FK Mladá Boleslav,0,4,Andrův stadión,Základní část
+16,11/25/2018 17:00,AC Sparta Praha,FK Jablonec,0,0,Generali Česká pojišťovna Arena,Základní část
+17,11/30/2018 18:00,FK Teplice,FC Slovan Liberec,1,0,Na Stínadlech,Základní část
+17,12/01/2018 15:00,FK Mladá Boleslav,MFK Karviná,1,1,Městský stadion Mladá Boleslav,Základní část
+17,12/01/2018 17:00,1.FC Slovácko,AC Sparta Praha,2,1,Městský fotbalový stadion Miroslava Valenty,Základní část
+17,12/02/2018 15:00,Bohemians Praha 1905,FK Dukla Praha,0,0,Ďolíček,Základní část
+17,12/02/2018 15:00,1.FK Příbram,FC Baník Ostrava,0,2,Stadion Na Litavce,Základní část
+17,12/02/2018 17:00,FC Viktoria Plzeň,SK Sigma Olomouc,2,0,Doosan Aréna,Základní část
+17,12/03/2018 17:00,FK Jablonec,FC Fastav Zlín,4,0,Střelnice,Základní část
+17,12/03/2018 18:00,Slezský FC Opava,SK Slavia Praha,2,3,Městský stadion Opava,Základní část
+18,12/07/2018 18:00,FK Dukla Praha,1.FK Příbram,1,2,Na Julisce,Základní část
+18,12/07/2018 18:00,FC Fastav Zlín,FC Viktoria Plzeň,0,2,Letná,Základní část
+18,12/08/2018 15:00,FC Baník Ostrava,Bohemians Praha 1905,2,0,Městský stadion Ostrava,Základní část
+18,12/08/2018 15:00,SK Sigma Olomouc,1.FC Slovácko,1,0,Andrův stadión,Základní část
+18,12/08/2018 15:00,MFK Karviná,FK Jablonec,2,1,Městský stadion Karviná,Základní část
+18,12/08/2018 17:00,SK Slavia Praha,FK Mladá Boleslav,3,2,Sinobo Stadium,Základní část
+18,12/09/2018 17:00,AC Sparta Praha,FK Teplice,0,1,Generali Česká pojišťovna Arena,Základní část
+18,12/10/2018 18:00,FC Slovan Liberec,Slezský FC Opava,1,2,Stadión U Nisy,Základní část
+19,12/14/2018 18:00,FC Baník Ostrava,SK Sigma Olomouc,0,0,Městský stadion Ostrava,Základní část
+19,12/15/2018 15:00,Bohemians Praha 1905,FC Slovan Liberec,0,0,Ďolíček,Základní část
+19,12/15/2018 15:00,1.FC Slovácko,FK Dukla Praha,1,0,Městský fotbalový stadion Miroslava Valenty,Základní část
+19,12/15/2018 15:00,FK Teplice,FC Fastav Zlín,2,1,Na Stínadlech,Základní část
+19,12/15/2018 15:00,Slezský FC Opava,FK Mladá Boleslav,2,1,Městský stadion Opava,Základní část
+19,12/15/2018 17:00,1.FK Příbram,AC Sparta Praha,1,1,Stadion Na Litavce,Základní část
+19,12/16/2018 15:00,FC Viktoria Plzeň,MFK Karviná,2,1,Doosan Aréna,Základní část
+19,12/17/2018 18:00,FK Jablonec,SK Slavia Praha,0,2,Střelnice,Základní část
+20,02/08/2019 18:00,SK Sigma Olomouc,FK Jablonec,1,2,Andrův stadión,Základní část
+20,02/08/2019 18:00,FK Dukla Praha,FC Baník Ostrava,1,1,Na Julisce,Základní část
+20,02/09/2019 15:00,FC Slovan Liberec,1.FK Příbram,4,0,Stadión U Nisy,Základní část
+20,02/09/2019 15:00,MFK Karviná,Slezský FC Opava,1,1,Městský stadion Karviná,Základní část
+20,02/09/2019 15:00,FK Mladá Boleslav,FC Viktoria Plzeň,1,1,Městský stadion Mladá Boleslav,Základní část
+20,02/09/2019 15:00,FC Fastav Zlín,1.FC Slovácko,0,1,Letná,Základní část
+20,02/09/2019 17:00,SK Slavia Praha,FK Teplice,2,0,Sinobo Stadium,Základní část
+20,02/10/2019 17:00,AC Sparta Praha,Bohemians Praha 1905,1,0,Generali Česká pojišťovna Arena,Základní část
+21,02/15/2019 18:00,FK Teplice,FK Mladá Boleslav,0,2,Na Stínadlech,Základní část
+21,02/16/2019 15:00,Bohemians Praha 1905,SK Sigma Olomouc,0,1,Ďolíček,Základní část
+21,02/16/2019 15:00,1.FK Příbram,FC Fastav Zlín,3,2,Stadion Na Litavce,Základní část
+21,02/16/2019 15:00,1.FC Slovácko,MFK Karviná,2,0,Městský fotbalový stadion Miroslava Valenty,Základní část
+21,02/16/2019 17:00,FC Baník Ostrava,FC Slovan Liberec,2,1,Městský stadion Ostrava,Základní část
+21,02/17/2019 15:00,FK Jablonec,Slezský FC Opava,2,2,Střelnice,Základní část
+21,02/17/2019 17:00,FC Viktoria Plzeň,SK Slavia Praha,2,0,Doosan Aréna,Základní část
+21,02/18/2019 18:00,FK Dukla Praha,AC Sparta Praha,2,3,Na Julisce,Základní část
+22,02/22/2019 18:00,FC Slovan Liberec,FK Dukla Praha,2,0,Stadión U Nisy,Základní část
+22,02/23/2019 15:00,FC Fastav Zlín,Bohemians Praha 1905,0,2,Letná,Základní část
+22,02/23/2019 15:00,SK Sigma Olomouc,1.FK Příbram,2,0,Andrův stadión,Základní část
+22,02/23/2019 15:00,MFK Karviná,FK Teplice,1,1,Městský stadion Karviná,Základní část
+22,02/23/2019 17:00,FK Mladá Boleslav,FK Jablonec,1,0,Městský stadion Mladá Boleslav,Základní část
+22,02/24/2019 17:00,AC Sparta Praha,FC Baník Ostrava,3,2,Generali Česká pojišťovna Arena,Základní část
+22,02/25/2019 18:00,Slezský FC Opava,FC Viktoria Plzeň,1,2,Městský stadion Opava,Základní část
+22,02/25/2019 18:00,SK Slavia Praha,1.FC Slovácko,4,0,Sinobo Stadium,Základní část
+23,03/01/2019 18:00,FC Baník Ostrava,FC Fastav Zlín,1,2,Městský stadion Ostrava,Základní část
+23,03/02/2019 15:00,FK Dukla Praha,SK Sigma Olomouc,0,4,Na Julisce,Základní část
+23,03/02/2019 15:00,1.FK Příbram,MFK Karviná,2,1,Stadion Na Litavce,Základní část
+23,03/02/2019 15:00,1.FC Slovácko,FK Mladá Boleslav,1,1,Městský fotbalový stadion Miroslava Valenty,Základní část
+23,03/02/2019 15:00,FC Viktoria Plzeň,FK Jablonec,1,0,Doosan Aréna,Základní část
+23,03/02/2019 17:00,FC Slovan Liberec,AC Sparta Praha,0,1,Stadión U Nisy,Základní část
+23,03/03/2019 15:00,Bohemians Praha 1905,SK Slavia Praha,0,3,Ďolíček,Základní část
+23,03/03/2019 15:00,FK Teplice,Slezský FC Opava,3,2,Na Stínadlech,Základní část
+24,03/08/2019 18:00,FK Jablonec,FK Teplice,2,1,Střelnice,Základní část
+24,03/09/2019 15:00,MFK Karviná,Bohemians Praha 1905,0,3,Městský stadion Karviná,Základní část
+24,03/09/2019 15:00,FK Mladá Boleslav,1.FK Příbram,2,0,Městský stadion Mladá Boleslav,Základní část
+24,03/09/2019 15:00,FC Fastav Zlín,FK Dukla Praha,2,1,Letná,Základní část
+24,03/09/2019 15:00,Slezský FC Opava,1.FC Slovácko,2,2,Městský stadion Opava,Základní část
+24,03/09/2019 17:30,AC Sparta Praha,FC Viktoria Plzeň,4,0,Generali Česká pojišťovna Arena,Základní část
+24,03/10/2019 17:30,SK Slavia Praha,FC Baník Ostrava,4,0,Sinobo Stadium,Základní část
+24,03/11/2019 18:00,SK Sigma Olomouc,FC Slovan Liberec,2,1,Andrův stadión,Základní část
+25,03/15/2019 18:00,FK Dukla Praha,MFK Karviná,2,1,Na Julisce,Základní část
+25,03/15/2019 18:00,FK Teplice,FC Viktoria Plzeň,2,1,Na Stínadlech,Základní část
+25,03/16/2019 14:00,FC Baník Ostrava,FK Mladá Boleslav,1,1,Městský stadion Ostrava,Základní část
+25,03/16/2019 15:00,FC Slovan Liberec,FC Fastav Zlín,1,0,Stadión U Nisy,Základní část
+25,03/16/2019 15:00,1.FC Slovácko,FK Jablonec,0,0,Městský fotbalový stadion Miroslava Valenty,Základní část
+25,03/16/2019 17:30,AC Sparta Praha,SK Sigma Olomouc,2,1,Generali Česká pojišťovna Arena,Základní část
+25,03/17/2019 15:00,Bohemians Praha 1905,Slezský FC Opava,0,0,Ďolíček,Základní část
+25,03/17/2019 17:30,1.FK Příbram,SK Slavia Praha,0,2,Stadion Na Litavce,Základní část
+26,03/29/2019 18:00,MFK Karviná,FC Baník Ostrava,2,0,Městský stadion Karviná,Základní část
+26,03/30/2019 15:00,Slezský FC Opava,FK Dukla Praha,2,0,Městský stadion Opava,Základní část
+26,03/30/2019 15:00,FK Mladá Boleslav,AC Sparta Praha,2,1,Městský stadion Mladá Boleslav,Základní část
+26,03/30/2019 15:00,FC Fastav Zlín,SK Sigma Olomouc,0,2,Letná,Základní část
+26,03/30/2019 15:00,FK Teplice,1.FC Slovácko,2,0,Na Stínadlech,Základní část
+26,03/30/2019 17:30,SK Slavia Praha,FC Slovan Liberec,1,1,Sinobo Stadium,Základní část
+26,03/31/2019 15:00,FK Jablonec,1.FK Příbram,3,0,Střelnice,Základní část
+26,03/31/2019 17:30,FC Viktoria Plzeň,Bohemians Praha 1905,3,2,Doosan Aréna,Základní část
+27,04/05/2019 18:00,1.FK Příbram,Slezský FC Opava,3,1,Stadion Na Litavce,Základní část
+27,04/06/2019 19:00,FK Dukla Praha,SK Slavia Praha,1,5,Na Julisce,Základní část
+27,04/07/2019 15:30,SK Sigma Olomouc,MFK Karviná,3,2,Andrův stadión,Základní část
+27,04/07/2019 15:30,Bohemians Praha 1905,FK Mladá Boleslav,0,0,Ďolíček,Základní část
+27,04/07/2019 15:30,FC Slovan Liberec,FK Jablonec,0,0,Stadión U Nisy,Základní část
+27,04/07/2019 15:30,FC Baník Ostrava,FK Teplice,3,1,Městský stadion Ostrava,Základní část
+27,04/07/2019 18:00,1.FC Slovácko,FC Viktoria Plzeň,0,1,Městský fotbalový stadion Miroslava Valenty,Základní část
+27,04/08/2019 18:00,AC Sparta Praha,FC Fastav Zlín,2,0,Generali Česká pojišťovna Arena,Základní část
+28,04/12/2019 18:00,FK Teplice,Bohemians Praha 1905,1,2,Na Stínadlech,Základní část
+28,04/13/2019 15:30,1.FC Slovácko,1.FK Příbram,2,0,Městský fotbalový stadion Miroslava Valenty,Základní část
+28,04/13/2019 15:30,Slezský FC Opava,SK Sigma Olomouc,2,1,Městský stadion Opava,Základní část
+28,04/13/2019 15:30,MFK Karviná,FC Fastav Zlín,2,0,Městský stadion Karviná,Základní část
+28,04/13/2019 18:00,FC Viktoria Plzeň,FC Baník Ostrava,2,1,Doosan Aréna,Základní část
+28,04/14/2019 15:30,FK Jablonec,FK Dukla Praha,2,1,Střelnice,Základní část
+28,04/14/2019 18:00,SK Slavia Praha,AC Sparta Praha,1,1,Sinobo Stadium,Základní část
+28,04/15/2019 18:00,FK Mladá Boleslav,FC Slovan Liberec,1,2,Městský stadion Mladá Boleslav,Základní část
+29,04/21/2019 17:00,FC Fastav Zlín,SK Slavia Praha,1,0,Letná,Základní část
+29,04/21/2019 17:00,AC Sparta Praha,MFK Karviná,1,3,Generali Česká pojišťovna Arena,Základní část
+29,04/21/2019 17:00,FK Dukla Praha,FK Mladá Boleslav,2,2,Na Julisce,Základní část
+29,04/21/2019 17:00,FC Baník Ostrava,Slezský FC Opava,2,0,Městský stadion Ostrava,Základní část
+29,04/21/2019 17:00,Bohemians Praha 1905,FK Jablonec,1,0,Ďolíček,Základní část
+29,04/21/2019 17:00,1.FK Příbram,FC Viktoria Plzeň,1,1,Stadion Na Litavce,Základní část
+29,04/21/2019 17:00,SK Sigma Olomouc,FK Teplice,2,0,Andrův stadión,Základní část
+29,04/21/2019 17:00,FC Slovan Liberec,1.FC Slovácko,3,2,Stadión U Nisy,Základní část
+30,04/27/2019 17:00,1.FC Slovácko,Bohemians Praha 1905,1,1,Městský fotbalový stadion Miroslava Valenty,Základní část
+30,04/27/2019 17:00,FK Teplice,1.FK Příbram,0,0,Na Stínadlech,Základní část
+30,04/27/2019 17:00,FK Jablonec,FC Baník Ostrava,4,0,Střelnice,Základní část
+30,04/27/2019 17:00,FC Viktoria Plzeň,FK Dukla Praha,4,0,Doosan Aréna,Základní část
+30,04/27/2019 17:00,MFK Karviná,FC Slovan Liberec,2,1,Městský stadion Karviná,Základní část
+30,04/27/2019 17:00,Slezský FC Opava,AC Sparta Praha,0,3,Městský stadion Opava,Základní část
+30,04/27/2019 17:00,SK Slavia Praha,SK Sigma Olomouc,2,1,Sinobo Stadium,Základní část
+30,04/27/2019 17:00,FK Mladá Boleslav,FC Fastav Zlín,3,0,Městský stadion Mladá Boleslav,Základní část
+1,05/04/2019 17:30,AC Sparta Praha,FC Baník Ostrava,3,0,Generali Česká pojišťovna Arena,Skupina o titul
+1,05/04/2019 20:00,FC Slovan Liberec,SK Slavia Praha,0,0,Stadión U Nisy,Skupina o titul
+1,05/05/2019 18:00,FC Viktoria Plzeň,FK Jablonec,2,1,Doosan Aréna,Skupina o titul
+2,05/11/2019 17:30,FK Jablonec,FC Baník Ostrava,2,0,Střelnice,Skupina o titul
+2,05/11/2019 20:00,AC Sparta Praha,FC Slovan Liberec,1,0,Generali Česká pojišťovna Arena,Skupina o titul
+2,05/12/2019 18:00,SK Slavia Praha,FC Viktoria Plzeň,3,1,Sinobo Stadium,Skupina o titul
+3,05/14/2019 20:00,FC Baník Ostrava,FC Slovan Liberec,0,1,Městský stadion Ostrava,Skupina o titul
+3,05/15/2019 17:30,FC Viktoria Plzeň,AC Sparta Praha,4,0,Doosan Aréna,Skupina o titul
+3,05/15/2019 20:00,SK Slavia Praha,FK Jablonec,2,1,Sinobo Stadium,Skupina o titul
+4,05/19/2019 15:00,FC Baník Ostrava,SK Slavia Praha,0,0,Městský stadion Ostrava,Skupina o titul
+4,05/19/2019 15:00,FC Slovan Liberec,FC Viktoria Plzeň,0,2,Stadión U Nisy,Skupina o titul
+4,05/19/2019 15:00,AC Sparta Praha,FK Jablonec,2,0,Generali Česká pojišťovna Arena,Skupina o titul
+5,05/26/2019 15:00,FC Viktoria Plzeň,FC Baník Ostrava,1,1,Doosan Aréna,Skupina o titul
+5,05/26/2019 15:00,SK Slavia Praha,AC Sparta Praha,2,1,Sinobo Stadium,Skupina o titul
+5,05/26/2019 15:00,FK Jablonec,FC Slovan Liberec,1,0,Střelnice,Skupina o titul
+1,05/03/2019 18:00,FK Teplice,FK Mladá Boleslav,0,8,Na Stínadlech,Skupina o Evropu
+1,05/03/2019 18:00,FC Fastav Zlín,SK Sigma Olomouc,1,0,Letná,Skupina o Evropu
+2,05/12/2019 15:00,FK Mladá Boleslav,FK Teplice,1,1,Městský stadion Mladá Boleslav,Skupina o Evropu
+2,05/12/2019 15:00,SK Sigma Olomouc,FC Fastav Zlín,3,2,Andrův stadión,Skupina o Evropu
+3,05/17/2019 18:00,FC Fastav Zlín,FK Mladá Boleslav,3,1,Letná,Skupina o Evropu
+4,05/24/2019 18:00,FK Mladá Boleslav,FC Fastav Zlín,3,0,Městský stadion Mladá Boleslav,Skupina o Evropu
+5,06/01/2019 15:00,FC Baník Ostrava,FK Mladá Boleslav,0,1,Městský stadion Ostrava,Skupina o Evropu
+1,05/03/2019 18:00,FK Dukla Praha,Bohemians Praha 1905,1,1,Na Julisce,Skupina o záchranu
+1,05/05/2019 15:30,1.FC Slovácko,1.FK Příbram,5,1,Městský fotbalový stadion Miroslava Valenty,Skupina o záchranu
+1,05/05/2019 15:30,Slezský FC Opava,MFK Karviná,1,0,Městský stadion Opava,Skupina o záchranu
+2,05/11/2019 15:00,1.FK Příbram,MFK Karviná,1,0,Stadion Na Litavce,Skupina o záchranu
+2,05/11/2019 15:00,Slezský FC Opava,FK Dukla Praha,3,2,Městský stadion Opava,Skupina o záchranu
+2,05/11/2019 15:00,Bohemians Praha 1905,1.FC Slovácko,0,0,Ďolíček,Skupina o záchranu
+3,05/14/2019 17:30,MFK Karviná,FK Dukla Praha,3,0,Městský stadion Karviná,Skupina o záchranu
+3,05/14/2019 17:30,Bohemians Praha 1905,1.FK Příbram,1,4,Ďolíček,Skupina o záchranu
+3,05/14/2019 17:30,1.FC Slovácko,Slezský FC Opava,4,1,Městský fotbalový stadion Miroslava Valenty,Skupina o záchranu
+4,05/18/2019 17:00,MFK Karviná,Bohemians Praha 1905,0,1,Městský stadion Karviná,Skupina o záchranu
+4,05/18/2019 17:00,FK Dukla Praha,1.FC Slovácko,0,0,Na Julisce,Skupina o záchranu
+4,05/18/2019 17:00,Slezský FC Opava,1.FK Příbram,2,1,Městský stadion Opava,Skupina o záchranu
+5,05/25/2019 17:00,1.FC Slovácko,MFK Karviná,2,0,Městský fotbalový stadion Miroslava Valenty,Skupina o záchranu
+5,05/25/2019 17:00,Bohemians Praha 1905,Slezský FC Opava,1,1,Ďolíček,Skupina o záchranu
+5,05/25/2019 17:00,1.FK Příbram,FK Dukla Praha,3,2,Stadion Na Litavce,Skupina o záchranu
+1,05/28/2019 18:00,MFK Karviná,FC Vysočina Jihlava,2,1,Městský stadion Karviná,Baráž
+1,05/29/2019 18:00,FC Zbrojovka Brno,1.FK Příbram,3,3,Městský fotbalový stadión,Baráž
+2,06/02/2019 18:30,FC Vysočina Jihlava,MFK Karviná,1,1,Stadion v Jiráskově ulici,Baráž
+2,06/02/2019 18:30,1.FK Příbram,FC Zbrojovka Brno,0,0,Stadion Na Litavce,Baráž
