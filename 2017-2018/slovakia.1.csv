@@ -1,0 +1,198 @@
+round,date,home_team,away_team,home_score,away_score,stadium,stage
+1,07/22/2017 18:30,FC Nitra,MŠK Žilina,1,0,,Základná časť
+1,07/22/2017 19:00,FC Spartak Trnava,MFK Zemplín Michalovce,1,0,,Základná časť
+1,07/22/2017 20:36,FC DAC 1904 Dunajská Streda,FK Železiarne Podbrezová,1,0,,Základná časť
+1,07/23/2017 18:30,FK Senica,AS Trenčín,1,2,,Základná časť
+1,07/23/2017 19:00,FC ViOn Zlaté Moravce - Vráble,MFK Ružomberok,2,1,,Základná časť
+1,07/23/2017 19:00,1. FC Tatran Prešov,ŠK Slovan Bratislava ,1,5,,Základná časť
+2,07/28/2017 18:30,FK Železiarne Podbrezová,FC Spartak Trnava,1,2,,Základná časť
+2,07/29/2017 18:30,AS Trenčín,FC DAC 1904 Dunajská Streda,1,2,,Základná časť
+2,07/29/2017 19:00,ŠK Slovan Bratislava ,FC ViOn Zlaté Moravce - Vráble,2,1,,Základná časť
+2,07/29/2017 19:00,MŠK Žilina,1. FC Tatran Prešov,2,3,,Základná časť
+2,07/29/2017 19:00,FC Nitra,MFK Zemplín Michalovce,0,0,,Základná časť
+2,07/30/2017 19:00,MFK Ružomberok,FK Senica,4,0,,Základná časť
+3,08/04/2017 18:30,FK Senica,ŠK Slovan Bratislava ,1,1,,Základná časť
+3,08/04/2017 19:00,1. FC Tatran Prešov,FC Nitra,0,4,,Základná časť
+3,08/05/2017 18:30,FC Spartak Trnava,AS Trenčín,2,1,,Základná časť
+3,08/05/2017 19:00,FC ViOn Zlaté Moravce - Vráble,MŠK Žilina,2,0,,Základná časť
+3,08/05/2017 19:00,FK Železiarne Podbrezová,MFK Zemplín Michalovce,1,0,,Základná časť
+3,08/06/2017 18:30,FC DAC 1904 Dunajská Streda,MFK Ružomberok,1,1,,Základná časť
+4,08/11/2017 18:30,FC Nitra,FC ViOn Zlaté Moravce - Vráble,1,0,,Základná časť
+4,08/12/2017 18:30,MFK Zemplín Michalovce,1. FC Tatran Prešov,0,1,,Základná časť
+4,08/12/2017 19:00,MFK Ružomberok,FC Spartak Trnava,0,2,,Základná časť
+4,08/12/2017 19:00,MŠK Žilina,FK Senica,7,1,,Základná časť
+4,08/12/2017 19:00,AS Trenčín,FK Železiarne Podbrezová,1,1,,Základná časť
+4,08/13/2017 18:30,ŠK Slovan Bratislava ,FC DAC 1904 Dunajská Streda,1,1,,Základná časť
+5,08/18/2017 18:30,FK Železiarne Podbrezová,MFK Ružomberok,1,3,,Základná časť
+5,08/19/2017 18:36,FC Spartak Trnava,ŠK Slovan Bratislava ,1,2,,Základná časť
+5,08/19/2017 19:00,AS Trenčín,MFK Zemplín Michalovce,1,2,,Základná časť
+5,08/19/2017 19:00,FK Senica,FC Nitra,0,1,,Základná časť
+5,08/19/2017 19:00,FC ViOn Zlaté Moravce - Vráble,1. FC Tatran Prešov,4,1,,Základná časť
+5,08/20/2017 18:30,FC DAC 1904 Dunajská Streda,MŠK Žilina,4,2,,Základná časť
+6,08/25/2017 18:30,MŠK Žilina,FC Spartak Trnava,3,1,,Základná časť
+6,08/26/2017 18:30,MFK Ružomberok,AS Trenčín,3,3,,Základná časť
+6,08/26/2017 19:00,MFK Zemplín Michalovce,FC ViOn Zlaté Moravce - Vráble,2,0,,Základná časť
+6,08/26/2017 19:00,1. FC Tatran Prešov,FK Senica,2,2,,Základná časť
+6,08/26/2017 19:00,FC Nitra,FC DAC 1904 Dunajská Streda,3,1,,Základná časť
+6,08/27/2017 18:00,ŠK Slovan Bratislava ,FK Železiarne Podbrezová,4,1,,Základná časť
+7,09/09/2017 17:00,AS Trenčín,ŠK Slovan Bratislava ,2,2,,Základná časť
+7,09/09/2017 19:00,FK Senica,FC ViOn Zlaté Moravce - Vráble,0,1,,Základná časť
+7,09/09/2017 19:00,FK Železiarne Podbrezová,MŠK Žilina,2,4,,Základná časť
+7,09/09/2017 19:00,MFK Ružomberok,MFK Zemplín Michalovce,2,1,,Základná časť
+7,09/09/2017 19:00,FC DAC 1904 Dunajská Streda,1. FC Tatran Prešov,0,0,,Základná časť
+7,09/10/2017 19:00,FC Spartak Trnava,FC Nitra,2,1,,Základná časť
+8,09/16/2017 17:30,ŠK Slovan Bratislava ,MFK Ružomberok,2,1,,Základná časť
+8,09/16/2017 19:00,FC Nitra,FK Železiarne Podbrezová,1,0,,Základná časť
+8,09/16/2017 19:00,1. FC Tatran Prešov,FC Spartak Trnava,0,2,,Základná časť
+8,09/16/2017 19:00,MFK Zemplín Michalovce,FK Senica,2,1,,Základná časť
+8,09/16/2017 19:30,MŠK Žilina,AS Trenčín,5,1,,Základná časť
+8,09/17/2017 19:00,FC ViOn Zlaté Moravce - Vráble,FC DAC 1904 Dunajská Streda,2,3,,Základná časť
+9,09/19/2017 18:30,MFK Ružomberok,MŠK Žilina,1,0,,Základná časť
+9,09/19/2017 19:00,FK Železiarne Podbrezová,1. FC Tatran Prešov,2,0,,Základná časť
+9,09/19/2017 20:30,ŠK Slovan Bratislava ,MFK Zemplín Michalovce,3,1,,Základná časť
+9,09/20/2017 18:30,AS Trenčín,FC Nitra,2,1,,Základná časť
+9,09/20/2017 19:00,FC DAC 1904 Dunajská Streda,FK Senica,1,0,,Základná časť
+9,09/20/2017 19:00,FC Spartak Trnava,FC ViOn Zlaté Moravce - Vráble,1,0,,Základná časť
+10,09/23/2017 17:00,FC Nitra,MFK Ružomberok,0,0,,Základná časť
+10,09/23/2017 19:00,FC ViOn Zlaté Moravce - Vráble,FK Železiarne Podbrezová,1,0,,Základná časť
+10,09/23/2017 19:00,FK Senica,FC Spartak Trnava,1,3,,Základná časť
+10,09/24/2017 19:00,MFK Zemplín Michalovce,FC DAC 1904 Dunajská Streda,1,2,,Základná časť
+10,09/24/2017 19:00,1. FC Tatran Prešov,AS Trenčín,0,7,,Základná časť
+10,09/24/2017 19:00,MŠK Žilina,ŠK Slovan Bratislava ,3,2,,Základná časť
+11,09/30/2017 17:15,FC Spartak Trnava,FC DAC 1904 Dunajská Streda,2,0,,Základná časť
+11,09/30/2017 19:00,MŠK Žilina,MFK Zemplín Michalovce,2,1,,Základná časť
+11,09/30/2017 19:00,FK Železiarne Podbrezová,FK Senica,1,0,,Základná časť
+11,09/30/2017 19:04,ŠK Slovan Bratislava ,FC Nitra,1,1,,Základná časť
+11,09/30/2017 20:00,AS Trenčín,FC ViOn Zlaté Moravce - Vráble,3,0,,Základná časť
+11,10/01/2017 19:00,MFK Ružomberok,1. FC Tatran Prešov,3,1,,Základná časť
+12,10/14/2017 15:00,MFK Zemplín Michalovce,FC Spartak Trnava,0,3,,Základná časť
+12,10/14/2017 17:00,ŠK Slovan Bratislava ,1. FC Tatran Prešov,3,2,,Základná časť
+12,10/14/2017 17:00,FK Železiarne Podbrezová,FC DAC 1904 Dunajská Streda,0,2,,Základná časť
+12,10/14/2017 17:00,AS Trenčín,FK Senica,4,1,,Základná časť
+12,10/14/2017 18:00,MFK Ružomberok,FC ViOn Zlaté Moravce - Vráble,1,1,,Základná časť
+12,10/15/2017 17:00,MŠK Žilina,FC Nitra,2,0,,Základná časť
+13,10/21/2017 15:00,FC DAC 1904 Dunajská Streda,AS Trenčín,1,2,,Základná časť
+13,10/21/2017 17:00,FC ViOn Zlaté Moravce - Vráble,ŠK Slovan Bratislava ,3,2,,Základná časť
+13,10/21/2017 17:00,FC Spartak Trnava,FK Železiarne Podbrezová,2,0,,Základná časť
+13,10/21/2017 17:00,FK Senica,MFK Ružomberok,0,3,,Základná časť
+13,10/21/2017 17:00,MFK Zemplín Michalovce,FC Nitra,0,0,,Základná časť
+13,10/22/2017 17:00,1. FC Tatran Prešov,MŠK Žilina,0,1,,Základná časť
+14,10/28/2017 15:00,MŠK Žilina,FC ViOn Zlaté Moravce - Vráble,2,0,,Základná časť
+14,10/28/2017 17:00,ŠK Slovan Bratislava ,FK Senica,2,2,,Základná časť
+14,10/28/2017 17:00,MFK Zemplín Michalovce,FK Železiarne Podbrezová,2,1,,Základná časť
+14,10/28/2017 17:00,FC Nitra,1. FC Tatran Prešov,2,0,,Základná časť
+14,10/28/2017 18:00,MFK Ružomberok,FC DAC 1904 Dunajská Streda,1,1,,Základná časť
+14,10/29/2017 17:00,AS Trenčín,FC Spartak Trnava,1,2,,Základná časť
+15,11/03/2017 17:00,1. FC Tatran Prešov,MFK Zemplín Michalovce,1,0,,Základná časť
+15,11/03/2017 17:00,FK Železiarne Podbrezová,AS Trenčín,1,8,,Základná časť
+15,11/03/2017 18:00,FC DAC 1904 Dunajská Streda,ŠK Slovan Bratislava ,2,1,,Základná časť
+15,11/05/2017 17:00,FC ViOn Zlaté Moravce - Vráble,FC Nitra,2,2,,Základná časť
+15,11/05/2017 17:00,FK Senica,MŠK Žilina,4,1,,Základná časť
+15,11/05/2017 17:00,FC Spartak Trnava,MFK Ružomberok,1,1,,Základná časť
+16,11/18/2017 14:00,MFK Ružomberok,FK Železiarne Podbrezová,3,0,,Základná časť
+16,11/18/2017 14:00,FC Nitra,FK Senica,0,0,,Základná časť
+16,11/18/2017 14:00,1. FC Tatran Prešov,FC ViOn Zlaté Moravce - Vráble,1,1,,Základná časť
+16,11/18/2017 15:00,MŠK Žilina,FC DAC 1904 Dunajská Streda,0,0,,Základná časť
+16,11/19/2017 14:00,ŠK Slovan Bratislava ,FC Spartak Trnava,1,0,,Základná časť
+16,11/28/2017 16:00,MFK Zemplín Michalovce,AS Trenčín,1,1,,Základná časť
+17,11/25/2017 14:00,FK Senica,1. FC Tatran Prešov,1,0,,Základná časť
+17,11/25/2017 14:00,AS Trenčín,MFK Ružomberok,1,2,,Základná časť
+17,11/25/2017 14:00,FC ViOn Zlaté Moravce - Vráble,MFK Zemplín Michalovce,0,1,,Základná časť
+17,11/25/2017 14:00,FK Železiarne Podbrezová,ŠK Slovan Bratislava ,1,1,,Základná časť
+17,11/25/2017 15:00,FC Spartak Trnava,MŠK Žilina,0,3,,Základná časť
+17,11/26/2017 14:00,FC DAC 1904 Dunajská Streda,FC Nitra,0,0,,Základná časť
+18,12/02/2017 14:00,FC ViOn Zlaté Moravce - Vráble,FK Senica,3,0,,Základná časť
+18,12/02/2017 14:00,MŠK Žilina,FK Železiarne Podbrezová,1,0,,Základná časť
+18,12/02/2017 14:00,MFK Zemplín Michalovce,MFK Ružomberok,1,1,,Základná časť
+18,12/02/2017 14:00,1. FC Tatran Prešov,FC DAC 1904 Dunajská Streda,0,0,,Základná časť
+18,12/02/2017 15:00,ŠK Slovan Bratislava ,AS Trenčín,1,1,,Základná časť
+18,12/05/2017 17:00,FC Nitra,FC Spartak Trnava,0,1,,Základná časť
+19,12/09/2017 14:00,FK Železiarne Podbrezová,FC Nitra,1,0,,Základná časť
+19,12/09/2017 14:00,FC Spartak Trnava,1. FC Tatran Prešov,1,0,,Základná časť
+19,12/09/2017 14:00,FC DAC 1904 Dunajská Streda,FC ViOn Zlaté Moravce - Vráble,3,3,,Základná časť
+19,12/09/2017 14:00,FK Senica,MFK Zemplín Michalovce,1,1,,Základná časť
+19,12/09/2017 15:00,AS Trenčín,MŠK Žilina,5,2,,Základná časť
+19,12/10/2017 14:00,MFK Ružomberok,ŠK Slovan Bratislava ,0,1,,Základná časť
+20,02/17/2018 16:00,FC ViOn Zlaté Moravce - Vráble,FC Spartak Trnava,1,4,,Základná časť
+20,02/18/2018 14:00,FK Senica,FC DAC 1904 Dunajská Streda,0,2,,Základná časť
+20,02/18/2018 14:00,1. FC Tatran Prešov,FK Železiarne Podbrezová,0,2,,Základná časť
+20,02/18/2018 14:00,MŠK Žilina,MFK Ružomberok,2,0,,Základná časť
+20,02/18/2018 14:00,FC Nitra,AS Trenčín,1,1,,Základná časť
+20,02/18/2018 14:00,MFK Zemplín Michalovce,ŠK Slovan Bratislava ,1,1,,Základná časť
+21,02/24/2018 14:00,AS Trenčín,1. FC Tatran Prešov,2,0,,Základná časť
+21,02/24/2018 14:00,ŠK Slovan Bratislava ,MŠK Žilina,6,0,,Základná časť
+21,02/24/2018 14:00,FC DAC 1904 Dunajská Streda,MFK Zemplín Michalovce,2,0,,Základná časť
+21,02/24/2018 14:00,FC Spartak Trnava,FK Senica,1,0,,Základná časť
+21,02/24/2018 14:00,FK Železiarne Podbrezová,FC ViOn Zlaté Moravce - Vráble,3,0,,Základná časť
+21,02/26/2018 15:30,MFK Ružomberok,FC Nitra,0,0,,Základná časť
+22,03/03/2018 14:00,MFK Zemplín Michalovce,MŠK Žilina,1,0,,Základná časť
+22,03/03/2018 14:00,1. FC Tatran Prešov,MFK Ružomberok,0,0,,Základná časť
+22,03/03/2018 14:00,FC Nitra,ŠK Slovan Bratislava ,0,1,,Základná časť
+22,03/03/2018 14:00,FC ViOn Zlaté Moravce - Vráble,AS Trenčín,1,4,,Základná časť
+22,03/03/2018 14:00,FK Senica,FK Železiarne Podbrezová,1,0,,Základná časť
+22,03/03/2018 14:00,FC DAC 1904 Dunajská Streda,FC Spartak Trnava,0,0,,Základná časť
+1,03/10/2018 14:00,FC DAC 1904 Dunajská Streda,MFK Ružomberok,3,0,,Skupina o titul
+1,03/10/2018 15:00,AS Trenčín,FC Spartak Trnava,1,2,,Skupina o titul
+1,03/11/2018 15:20,MŠK Žilina,ŠK Slovan Bratislava ,2,0,,Skupina o titul
+2,03/17/2018 15:00,FC Spartak Trnava,MŠK Žilina,0,0,,Skupina o titul
+2,03/17/2018 17:00,MFK Ružomberok,AS Trenčín,2,1,,Skupina o titul
+2,03/18/2018 15:20,ŠK Slovan Bratislava ,FC DAC 1904 Dunajská Streda,2,0,,Skupina o titul
+3,03/31/2018 15:00,MŠK Žilina,AS Trenčín,1,5,,Skupina o titul
+3,03/31/2018 17:00,ŠK Slovan Bratislava ,MFK Ružomberok,1,0,,Skupina o titul
+3,04/01/2018 15:20,FC DAC 1904 Dunajská Streda,FC Spartak Trnava,1,0,,Skupina o titul
+4,04/07/2018 15:30,FC Spartak Trnava,ŠK Slovan Bratislava ,1,0,,Skupina o titul
+4,04/07/2018 17:00,MFK Ružomberok,MŠK Žilina,1,2,,Skupina o titul
+4,04/08/2018 15:20,AS Trenčín,FC DAC 1904 Dunajská Streda,1,3,,Skupina o titul
+5,04/14/2018 15:00,ŠK Slovan Bratislava ,AS Trenčín,1,3,,Skupina o titul
+5,04/14/2018 17:00,FC DAC 1904 Dunajská Streda,MŠK Žilina,3,1,,Skupina o titul
+5,04/15/2018 14:45,FC Spartak Trnava,MFK Ružomberok,1,0,,Skupina o titul
+6,04/21/2018 14:45,MFK Ružomberok,FC Spartak Trnava,0,0,,Skupina o titul
+6,04/22/2018 15:20,MŠK Žilina,FC DAC 1904 Dunajská Streda,2,3,,Skupina o titul
+6,04/22/2018 17:00,AS Trenčín,ŠK Slovan Bratislava ,1,3,,Skupina o titul
+7,04/28/2018 14:45,FC DAC 1904 Dunajská Streda,AS Trenčín,0,3,,Skupina o titul
+7,04/28/2018 17:00,MŠK Žilina,MFK Ružomberok,3,0,,Skupina o titul
+7,04/28/2018 20:30,ŠK Slovan Bratislava ,FC Spartak Trnava,2,1,,Skupina o titul
+8,05/05/2018 17:00,FC Spartak Trnava,FC DAC 1904 Dunajská Streda,2,0,,Skupina o titul
+8,05/05/2018 17:00,MFK Ružomberok,ŠK Slovan Bratislava ,1,0,,Skupina o titul
+8,05/06/2018 15:20,AS Trenčín,MŠK Žilina,1,2,,Skupina o titul
+9,05/12/2018 17:45,AS Trenčín,MFK Ružomberok,3,1,,Skupina o titul
+9,05/12/2018 17:45,FC DAC 1904 Dunajská Streda,ŠK Slovan Bratislava ,0,1,,Skupina o titul
+9,05/12/2018 17:45,MŠK Žilina,FC Spartak Trnava,6,0,,Skupina o titul
+10,05/19/2018 17:00,ŠK Slovan Bratislava ,MŠK Žilina,3,2,,Skupina o titul
+10,05/19/2018 17:00,MFK Ružomberok,FC DAC 1904 Dunajská Streda,0,4,,Skupina o titul
+10,05/19/2018 17:00,FC Spartak Trnava,AS Trenčín,0,2,,Skupina o titul
+1,03/10/2018 14:00,MFK Zemplín Michalovce,1. FC Tatran Prešov,0,0,,Skupina o udržanie sa
+1,03/10/2018 14:00,FK Senica,FC Nitra,0,1,,Skupina o udržanie sa
+1,03/10/2018 14:00,FC ViOn Zlaté Moravce - Vráble,FK Železiarne Podbrezová,0,1,,Skupina o udržanie sa
+2,03/16/2018 17:00,1. FC Tatran Prešov,FK Senica,1,1,,Skupina o udržanie sa
+2,03/17/2018 17:00,FC Nitra,FC ViOn Zlaté Moravce - Vráble,1,0,,Skupina o udržanie sa
+2,03/17/2018 17:00,FK Železiarne Podbrezová,MFK Zemplín Michalovce,2,1,,Skupina o udržanie sa
+3,03/31/2018 14:00,FC ViOn Zlaté Moravce - Vráble,FK Senica,2,2,,Skupina o udržanie sa
+3,03/31/2018 17:00,FK Železiarne Podbrezová,1. FC Tatran Prešov,1,1,,Skupina o udržanie sa
+3,03/31/2018 17:03,MFK Zemplín Michalovce,FC Nitra,4,0,,Skupina o udržanie sa
+4,04/07/2018 17:00,1. FC Tatran Prešov,FC ViOn Zlaté Moravce - Vráble,1,0,,Skupina o udržanie sa
+4,04/07/2018 17:00,FC Nitra,FK Železiarne Podbrezová,0,0,,Skupina o udržanie sa
+4,04/07/2018 17:00,FK Senica,MFK Zemplín Michalovce,0,2,,Skupina o udržanie sa
+5,04/14/2018 17:00,FK Železiarne Podbrezová,FK Senica,3,1,,Skupina o udržanie sa
+5,04/14/2018 17:00,FC Nitra,1. FC Tatran Prešov,3,2,,Skupina o udržanie sa
+5,04/14/2018 17:00,MFK Zemplín Michalovce,FC ViOn Zlaté Moravce - Vráble,2,0,,Skupina o udržanie sa
+6,04/20/2018 17:00,1. FC Tatran Prešov,FC Nitra,1,1,,Skupina o udržanie sa
+6,04/21/2018 17:00,FC ViOn Zlaté Moravce - Vráble,MFK Zemplín Michalovce,2,2,,Skupina o udržanie sa
+6,04/21/2018 17:00,FK Senica,FK Železiarne Podbrezová,1,0,,Skupina o udržanie sa
+7,04/28/2018 17:00,FC ViOn Zlaté Moravce - Vráble,1. FC Tatran Prešov,4,0,,Skupina o udržanie sa
+7,04/28/2018 17:00,FK Železiarne Podbrezová,FC Nitra,1,0,,Skupina o udržanie sa
+7,04/28/2018 17:00,MFK Zemplín Michalovce,FK Senica,1,2,,Skupina o udržanie sa
+8,05/05/2018 17:00,FK Senica,FC ViOn Zlaté Moravce - Vráble,3,1,,Skupina o udržanie sa
+8,05/05/2018 17:00,FC Nitra,MFK Zemplín Michalovce,1,3,,Skupina o udržanie sa
+8,05/05/2018 17:00,1. FC Tatran Prešov,FK Železiarne Podbrezová,1,1,,Skupina o udržanie sa
+9,05/12/2018 17:45,MFK Zemplín Michalovce,FK Železiarne Podbrezová,1,0,,Skupina o udržanie sa
+9,05/12/2018 17:45,FC ViOn Zlaté Moravce - Vráble,FC Nitra,2,2,,Skupina o udržanie sa
+9,05/12/2018 17:45,FK Senica,1. FC Tatran Prešov,0,0,,Skupina o udržanie sa
+10,05/19/2018 17:00,1. FC Tatran Prešov,MFK Zemplín Michalovce,2,1,,Skupina o udržanie sa
+10,05/19/2018 17:00,FC Nitra,FK Senica,5,2,,Skupina o udržanie sa
+10,05/19/2018 17:00,FK Železiarne Podbrezová,FC ViOn Zlaté Moravce - Vráble,1,0,,Skupina o udržanie sa
+1,05/22/2018 17:20,MFK Skalica,FK Senica,2,1,,Baráž o Fortuna ligu
+1,05/26/2018 17:20,FK Senica,MFK Skalica,1,0,,Baráž o Fortuna ligu
+Semifinále,05/23/2018 17:30,MŠK Žilina,FC Nitra,5,0,,Play-off o Európsku ligu
+Semifinále,05/23/2018 17:30,AS Trenčín,MFK Ružomberok,4,2,,Play-off o Európsku ligu
+Finále,05/27/2018 17:20,MŠK Žilina,AS Trenčín,1,2,,Play-off o Európsku ligu

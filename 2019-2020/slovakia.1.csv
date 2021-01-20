@@ -1,0 +1,168 @@
+round,date,home_team,away_team,home_score,away_score,stadium,stage
+1,07/20/2019 18:00,MFK Zemplín Michalovce,MŠK Žilina,0,3,,Základná časť
+1,07/20/2019 19:00,FK Senica,AS Trenčín,3,1,,Základná časť
+1,07/20/2019 20:00,FK Pohronie Žiar n.H. Dolná Ždaňa,ŠK Slovan Bratislava ,1,3,,Základná časť
+1,07/21/2019 19:00,FC Spartak Trnava,ŠKF Sereď,2,0,,Základná časť
+1,07/21/2019 19:00,MFK Ružomberok,FC Nitra,1,0,,Základná časť
+1,07/21/2019 19:00,FC ViOn Zlaté Moravce - Vráble,FC DAC 1904 Dunajská Streda,1,2,,Základná časť
+2,07/27/2019 18:15,FC Nitra,FC ViOn Zlaté Moravce - Vráble,0,1,,Základná časť
+2,07/27/2019 19:00,ŠKF Sereď,FK Senica,2,1,,Základná časť
+2,07/27/2019 19:00,AS Trenčín,MFK Ružomberok,1,1,,Základná časť
+2,07/27/2019 20:00,ŠK Slovan Bratislava ,MFK Zemplín Michalovce,3,0,,Základná časť
+2,07/28/2019 19:00,FC DAC 1904 Dunajská Streda,FK Pohronie Žiar n.H. Dolná Ždaňa,5,1,,Základná časť
+2,07/28/2019 19:00,MŠK Žilina,FC Spartak Trnava,4,2,,Základná časť
+3,08/03/2019 18:00,FK Senica,ŠK Slovan Bratislava ,0,3,,Základná časť
+3,08/03/2019 19:00,MŠK Žilina,AS Trenčín,2,1,,Základná časť
+3,08/03/2019 19:00,FC ViOn Zlaté Moravce - Vráble,MFK Zemplín Michalovce,1,0,,Základná časť
+3,08/03/2019 19:00,MFK Ružomberok,FK Pohronie Žiar n.H. Dolná Ždaňa,0,1,,Základná časť
+3,08/04/2019 18:00,FC Spartak Trnava,FC Nitra,2,0,,Základná časť
+3,08/04/2019 19:00,ŠKF Sereď,FC DAC 1904 Dunajská Streda,3,1,,Základná časť
+4,08/10/2019 18:00,MFK Ružomberok,MŠK Žilina,2,3,,Základná časť
+4,08/10/2019 19:00,FC Nitra,ŠKF Sereď,3,2,,Základná časť
+4,08/10/2019 19:00,MFK Zemplín Michalovce,FK Senica,3,0,,Základná časť
+4,08/10/2019 19:00,AS Trenčín,FC DAC 1904 Dunajská Streda,2,1,,Základná časť
+4,08/10/2019 19:00,ŠK Slovan Bratislava ,FC ViOn Zlaté Moravce - Vráble,4,0,,Základná časť
+4,08/11/2019 18:00,FK Pohronie Žiar n.H. Dolná Ždaňa,FC Spartak Trnava,2,2,,Základná časť
+5,08/17/2019 18:00,FC Spartak Trnava,AS Trenčín,1,2,,Základná časť
+5,08/17/2019 19:00,FC ViOn Zlaté Moravce - Vráble,FK Pohronie Žiar n.H. Dolná Ždaňa,0,0,,Základná časť
+5,08/17/2019 19:00,FK Senica,MFK Ružomberok,2,2,,Základná časť
+5,08/17/2019 19:00,ŠKF Sereď,ŠK Slovan Bratislava ,0,4,,Základná časť
+5,08/17/2019 19:00,MŠK Žilina,FC Nitra,3,0,,Základná časť
+5,08/18/2019 18:00,FC DAC 1904 Dunajská Streda,MFK Zemplín Michalovce,1,1,,Základná časť
+6,08/23/2019 19:00,FK Senica,FC ViOn Zlaté Moravce - Vráble,1,3,,Základná časť
+6,08/24/2019 19:00,FK Pohronie Žiar n.H. Dolná Ždaňa,AS Trenčín,0,4,,Základná časť
+6,08/24/2019 19:00,MFK Ružomberok,FC Spartak Trnava,0,1,,Základná časť
+6,08/24/2019 19:00,MFK Zemplín Michalovce,ŠKF Sereď,1,1,,Základná časť
+6,08/25/2019 17:30,ŠK Slovan Bratislava ,MŠK Žilina,1,1,,Základná časť
+6,08/25/2019 19:15,FC Nitra,FC DAC 1904 Dunajská Streda,1,2,,Základná časť
+7,08/31/2019 18:00,FC Spartak Trnava,MFK Zemplín Michalovce,2,1,,Základná časť
+7,08/31/2019 19:00,MŠK Žilina,FK Senica,5,0,,Základná časť
+7,08/31/2019 19:00,ŠKF Sereď,FK Pohronie Žiar n.H. Dolná Ždaňa,3,3,,Základná časť
+7,08/31/2019 19:00,FC ViOn Zlaté Moravce - Vráble,MFK Ružomberok,4,2,,Základná časť
+7,09/01/2019 18:00,FC DAC 1904 Dunajská Streda,ŠK Slovan Bratislava ,5,2,,Základná časť
+7,09/01/2019 19:00,AS Trenčín,FC Nitra,2,2,,Základná časť
+8,09/14/2019 14:00,FK Pohronie Žiar n.H. Dolná Ždaňa,FC Nitra,0,3,,Základná časť
+8,09/14/2019 19:00,FC ViOn Zlaté Moravce - Vráble,MŠK Žilina,0,0,,Základná časť
+8,09/14/2019 19:00,FK Senica,FC DAC 1904 Dunajská Streda,0,1,,Základná časť
+8,09/14/2019 19:00,MFK Ružomberok,ŠKF Sereď,1,1,,Základná časť
+8,09/14/2019 19:00,MFK Zemplín Michalovce,AS Trenčín,2,1,,Základná časť
+8,09/15/2019 18:00,ŠK Slovan Bratislava ,FC Spartak Trnava,2,0,,Základná časť
+9,09/18/2019 18:00,FC Spartak Trnava,FK Senica,0,0,,Základná časť
+9,09/21/2019 17:00,FC DAC 1904 Dunajská Streda,MFK Ružomberok,0,1,,Základná časť
+9,09/21/2019 19:00,ŠKF Sereď,FC ViOn Zlaté Moravce - Vráble,0,0,,Základná časť
+9,09/21/2019 19:00,FC Nitra,MFK Zemplín Michalovce,0,2,,Základná časť
+9,09/21/2019 19:00,MŠK Žilina,FK Pohronie Žiar n.H. Dolná Ždaňa,2,1,,Základná časť
+9,09/22/2019 18:00,AS Trenčín,ŠK Slovan Bratislava ,2,4,,Základná časť
+10,09/28/2019 16:30,ŠKF Sereď,AS Trenčín,1,1,,Základná časť
+10,09/28/2019 19:00,MFK Zemplín Michalovce,MFK Ružomberok,0,1,,Základná časť
+10,09/28/2019 19:00,FK Senica,FK Pohronie Žiar n.H. Dolná Ždaňa,1,0,,Základná časť
+10,09/28/2019 19:00,ŠK Slovan Bratislava ,FC Nitra,5,0,,Základná časť
+10,09/29/2019 18:00,FC ViOn Zlaté Moravce - Vráble,FC Spartak Trnava,1,3,,Základná časť
+10,09/29/2019 18:00,FC DAC 1904 Dunajská Streda,MŠK Žilina,1,0,,Základná časť
+11,10/05/2019 16:30,FC Spartak Trnava,FC DAC 1904 Dunajská Streda,1,2,,Základná časť
+11,10/05/2019 17:00,FK Pohronie Žiar n.H. Dolná Ždaňa,MFK Zemplín Michalovce,2,2,,Základná časť
+11,10/05/2019 17:00,FC Nitra,FK Senica,1,4,,Základná časť
+11,10/05/2019 17:00,MŠK Žilina,ŠKF Sereď,1,0,,Základná časť
+11,10/06/2019 17:00,AS Trenčín,FC ViOn Zlaté Moravce - Vráble,2,2,,Základná časť
+11,10/06/2019 18:00,MFK Ružomberok,ŠK Slovan Bratislava ,1,1,,Základná časť
+12,10/19/2019 17:00,ŠKF Sereď,FC Spartak Trnava,2,1,,Základná časť
+12,10/19/2019 17:00,FC Nitra,MFK Ružomberok,1,2,,Základná časť
+12,10/19/2019 17:00,MŠK Žilina,MFK Zemplín Michalovce,1,1,,Základná časť
+12,10/19/2019 17:00,ŠK Slovan Bratislava ,FK Pohronie Žiar n.H. Dolná Ždaňa,2,1,,Základná časť
+12,10/20/2019 17:00,AS Trenčín,FK Senica,2,3,,Základná časť
+12,10/20/2019 18:00,FC DAC 1904 Dunajská Streda,FC ViOn Zlaté Moravce - Vráble,2,1,,Základná časť
+13,10/26/2019 16:00,MFK Ružomberok,AS Trenčín,2,2,,Základná časť
+13,10/26/2019 17:00,FK Pohronie Žiar n.H. Dolná Ždaňa,FC DAC 1904 Dunajská Streda,0,2,,Základná časť
+13,10/26/2019 17:00,FC ViOn Zlaté Moravce - Vráble,FC Nitra,1,0,,Základná časť
+13,10/26/2019 17:00,FK Senica,ŠKF Sereď,0,1,,Základná časť
+13,10/27/2019 17:00,MFK Zemplín Michalovce,ŠK Slovan Bratislava ,0,1,,Základná časť
+13,10/27/2019 18:00,FC Spartak Trnava,MŠK Žilina,0,1,,Základná časť
+14,11/02/2019 16:00,FC Nitra,FC Spartak Trnava,1,0,,Základná časť
+14,11/02/2019 17:00,FC DAC 1904 Dunajská Streda,ŠKF Sereď,0,0,,Základná časť
+14,11/02/2019 17:00,FK Pohronie Žiar n.H. Dolná Ždaňa,MFK Ružomberok,1,2,,Základná časť
+14,11/02/2019 17:00,ŠK Slovan Bratislava ,FK Senica,2,0,,Základná časť
+14,11/02/2019 17:00,MFK Zemplín Michalovce,FC ViOn Zlaté Moravce - Vráble,2,2,,Základná časť
+14,11/03/2019 15:00,AS Trenčín,MŠK Žilina,3,0,,Základná časť
+15,11/09/2019 14:00,MŠK Žilina,MFK Ružomberok,1,2,,Základná časť
+15,11/09/2019 17:00,FC Spartak Trnava,FK Pohronie Žiar n.H. Dolná Ždaňa,3,2,,Základná časť
+15,11/09/2019 17:00,FC DAC 1904 Dunajská Streda,AS Trenčín,3,1,,Základná časť
+15,11/09/2019 17:00,ŠKF Sereď,FC Nitra,0,1,,Základná časť
+15,11/09/2019 17:00,FK Senica,MFK Zemplín Michalovce,4,0,,Základná časť
+15,11/10/2019 15:00,FC ViOn Zlaté Moravce - Vráble,ŠK Slovan Bratislava ,0,1,,Základná časť
+16,11/23/2019 14:00,FK Pohronie Žiar n.H. Dolná Ždaňa,FC ViOn Zlaté Moravce - Vráble,1,1,,Základná časť
+16,11/23/2019 14:00,AS Trenčín,FC Spartak Trnava,1,0,,Základná časť
+16,11/23/2019 14:00,FC Nitra,MŠK Žilina,0,0,,Základná časť
+16,11/23/2019 14:00,MFK Zemplín Michalovce,FC DAC 1904 Dunajská Streda,5,0,,Základná časť
+16,11/23/2019 15:00,MFK Ružomberok,FK Senica,2,2,,Základná časť
+16,11/23/2019 16:00,ŠK Slovan Bratislava ,ŠKF Sereď,2,0,,Základná časť
+17,11/29/2019 18:00,FC Spartak Trnava,MFK Ružomberok,2,0,,Základná časť
+17,11/30/2019 13:30,FC DAC 1904 Dunajská Streda,FC Nitra,1,0,,Základná časť
+17,11/30/2019 14:00,ŠKF Sereď,MFK Zemplín Michalovce,0,2,,Základná časť
+17,11/30/2019 14:00,FC ViOn Zlaté Moravce - Vráble,FK Senica,0,0,,Základná časť
+17,11/30/2019 14:00,AS Trenčín,FK Pohronie Žiar n.H. Dolná Ždaňa,0,1,,Základná časť
+17,12/01/2019 15:00,MŠK Žilina,ŠK Slovan Bratislava ,0,0,,Základná časť
+18,12/07/2019 14:00,MFK Ružomberok,FC ViOn Zlaté Moravce - Vráble,0,0,,Základná časť
+18,12/07/2019 14:00,FK Pohronie Žiar n.H. Dolná Ždaňa,ŠKF Sereď,2,1,,Základná časť
+18,12/07/2019 14:00,MFK Zemplín Michalovce,FC Spartak Trnava,2,0,,Základná časť
+18,12/07/2019 14:00,FC Nitra,AS Trenčín,1,1,,Základná časť
+18,12/07/2019 15:30,ŠK Slovan Bratislava ,FC DAC 1904 Dunajská Streda,2,0,,Základná časť
+18,12/08/2019 15:00,FK Senica,MŠK Žilina,1,2,,Základná časť
+19,02/15/2020 14:00,ŠKF Sereď,MFK Ružomberok,2,2,,Základná časť
+19,02/15/2020 14:00,AS Trenčín,MFK Zemplín Michalovce,8,1,,Základná časť
+19,02/15/2020 14:00,FC Nitra,FK Pohronie Žiar n.H. Dolná Ždaňa,0,0,,Základná časť
+19,02/16/2020 14:00,MŠK Žilina,FC ViOn Zlaté Moravce - Vráble,3,0,,Základná časť
+19,02/16/2020 15:00,FC Spartak Trnava,ŠK Slovan Bratislava ,0,0,,Základná časť
+19,02/16/2020 15:00,FC DAC 1904 Dunajská Streda,FK Senica,0,0,,Základná časť
+20,02/22/2020 14:00,FK Pohronie Žiar n.H. Dolná Ždaňa,MŠK Žilina,0,1,,Základná časť
+20,02/22/2020 14:00,MFK Ružomberok,FC DAC 1904 Dunajská Streda,0,0,,Základná časť
+20,02/22/2020 14:00,FC ViOn Zlaté Moravce - Vráble,ŠKF Sereď,1,3,,Základná časť
+20,02/22/2020 14:00,MFK Zemplín Michalovce,FC Nitra,1,0,,Základná časť
+20,02/22/2020 14:00,ŠK Slovan Bratislava ,AS Trenčín,2,0,,Základná časť
+20,02/23/2020 15:00,FK Senica,FC Spartak Trnava,2,0,,Základná časť
+21,03/01/2020 15:30,MŠK Žilina,FC DAC 1904 Dunajská Streda,2,2,,Základná časť
+21,03/01/2020 15:30,FC Spartak Trnava,FC ViOn Zlaté Moravce - Vráble,2,1,,Základná časť
+21,03/01/2020 15:30,MFK Ružomberok,MFK Zemplín Michalovce,1,1,,Základná časť
+21,03/01/2020 15:30,FK Pohronie Žiar n.H. Dolná Ždaňa,FK Senica,0,0,,Základná časť
+21,03/01/2020 15:30,AS Trenčín,ŠKF Sereď,2,1,,Základná časť
+21,03/01/2020 15:30,FC Nitra,ŠK Slovan Bratislava ,0,1,,Základná časť
+22,03/07/2020 15:30,ŠK Slovan Bratislava ,MFK Ružomberok,1,0,,Základná časť
+22,03/07/2020 15:30,MFK Zemplín Michalovce,FK Pohronie Žiar n.H. Dolná Ždaňa,1,0,,Základná časť
+22,03/07/2020 15:30,ŠKF Sereď,MŠK Žilina,0,3,,Základná časť
+22,03/07/2020 15:30,FC DAC 1904 Dunajská Streda,FC Spartak Trnava,0,1,,Základná časť
+22,03/07/2020 15:30,FC ViOn Zlaté Moravce - Vráble,AS Trenčín,2,0,,Základná časť
+22,03/07/2020 15:30,FK Senica,FC Nitra,0,3,,Základná časť
+1,06/13/2020 18:00,ŠK Slovan Bratislava ,MFK Ružomberok,1,0,,Skupina o titul
+1,06/13/2020 20:00,FC DAC 1904 Dunajská Streda,MFK Zemplín Michalovce,5,0,,Skupina o titul
+1,06/14/2020 18:00,MŠK Žilina,FC Spartak Trnava,2,1,,Skupina o titul
+2,06/20/2020 18:00,MŠK Žilina,ŠK Slovan Bratislava ,2,3,,Skupina o titul
+2,06/21/2020 18:00,MFK Zemplín Michalovce,MFK Ružomberok,1,1,,Skupina o titul
+2,06/21/2020 20:00,FC Spartak Trnava,FC DAC 1904 Dunajská Streda,0,2,,Skupina o titul
+3,06/27/2020 18:00,MFK Zemplín Michalovce,FC Spartak Trnava,2,2,,Skupina o titul
+3,06/28/2020 18:00,MFK Ružomberok,MŠK Žilina,2,1,,Skupina o titul
+3,07/01/2020 20:00,FC DAC 1904 Dunajská Streda,ŠK Slovan Bratislava ,1,3,,Skupina o titul
+4,07/04/2020 18:00,FC Spartak Trnava,MFK Ružomberok,2,0,,Skupina o titul
+4,07/04/2020 18:00,FC DAC 1904 Dunajská Streda,MŠK Žilina,2,0,,Skupina o titul
+4,07/04/2020 18:00,ŠK Slovan Bratislava ,MFK Zemplín Michalovce,4,0,,Skupina o titul
+5,07/11/2020 18:00,MŠK Žilina,MFK Zemplín Michalovce,5,0,,Skupina o titul
+5,07/11/2020 18:00,MFK Ružomberok,FC DAC 1904 Dunajská Streda,0,1,,Skupina o titul
+5,07/11/2020 18:00,ŠK Slovan Bratislava ,FC Spartak Trnava,0,0,,Skupina o titul
+1,06/13/2020 17:00,AS Trenčín,FK Pohronie Žiar n.H. Dolná Ždaňa,4,0,,Skupina o udržanie sa
+1,06/13/2020 17:00,FK Senica,ŠKF Sereď,1,1,,Skupina o udržanie sa
+1,06/13/2020 17:00,FC ViOn Zlaté Moravce - Vráble,FC Nitra,2,1,,Skupina o udržanie sa
+2,06/20/2020 17:00,FC Nitra,FK Senica,2,0,,Skupina o udržanie sa
+2,06/20/2020 20:00,FC ViOn Zlaté Moravce - Vráble,AS Trenčín,2,3,,Skupina o udržanie sa
+2,06/21/2020 17:00,ŠKF Sereď,FK Pohronie Žiar n.H. Dolná Ždaňa,2,2,,Skupina o udržanie sa
+3,06/27/2020 17:00,FK Pohronie Žiar n.H. Dolná Ždaňa,FC ViOn Zlaté Moravce - Vráble,1,0,,Skupina o udržanie sa
+3,06/27/2020 17:00,ŠKF Sereď,FC Nitra,1,0,,Skupina o udržanie sa
+3,06/27/2020 20:00,FK Senica,AS Trenčín,1,3,,Skupina o udržanie sa
+4,07/04/2020 18:00,FC Nitra,FK Pohronie Žiar n.H. Dolná Ždaňa,0,2,,Skupina o udržanie sa
+4,07/04/2020 18:00,FK Senica,FC ViOn Zlaté Moravce - Vráble,0,0,,Skupina o udržanie sa
+4,07/04/2020 18:00,AS Trenčín,ŠKF Sereď,3,2,,Skupina o udržanie sa
+5,07/11/2020 18:00,FC ViOn Zlaté Moravce - Vráble,ŠKF Sereď,1,0,,Skupina o udržanie sa
+5,07/11/2020 18:00,FK Pohronie Žiar n.H. Dolná Ždaňa,FK Senica,1,0,,Skupina o udržanie sa
+5,07/11/2020 18:00,AS Trenčín,FC Nitra,0,3,,Skupina o udržanie sa
+1,07/14/2020 17:00,FK Dubnica nad Váhom,FC Nitra,0,0,,Baráž o Fortuna ligu
+2,07/17/2020 20:00,FC Nitra,FK Dubnica nad Váhom,3,0,,Baráž o Fortuna ligu
+Semifinále,07/14/2020 18:00,MFK Ružomberok,MFK Zemplín Michalovce,1,0,,Play-off o Európsku ligu
+Semifinále,07/14/2020 20:00,FC Spartak Trnava,AS Trenčín,3,0,,Play-off o Európsku ligu
+Finale,07/17/2020 18:00,FC Spartak Trnava,MFK Ružomberok,0,2,,Play-off o Európsku ligu
