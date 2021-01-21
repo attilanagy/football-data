@@ -1,6 +1,6 @@
 # football-data
 
-This repository contains data-sets about the results of *football* (or *soccer* if you are from the US) games in various championships worldwide. 
+This repository contains data-sets about the results of *football* (or *soccer* if you are from the US) games in various championships worldwide.
 
 
 ## Path format
@@ -8,11 +8,12 @@ This repository contains data-sets about the results of *football* (or *soccer* 
 Files are organised in directories and the name of them follows the schema below.
 
 ```
-${SEASON}/${COUNTRY}.${TIER}.${FORMAT}
+${DECADE}/${SEASON}/${COUNTRY}.${TIER}.${FORMAT}
 ```
 
 Where
 
+* `DECADE` is the decade the season belongs to
 * `SEASON` is the season in format `${start_year}-${end_year}` or `${year}` if the championship is a single-year one
 * `COUNTRY` is the name of the country (all lowercase)
 * `TIER` is the number of the tier (1 is the highest)
