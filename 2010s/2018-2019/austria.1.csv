@@ -1,0 +1,196 @@
+round,date,home_team,away_team,home_score,away_score,stadium,stage
+1,07/27/2018 20:45,FK Austria Wien,FC Wacker Innsbruck,2,1,Generali-Arena,Grunddurchgang
+1,07/28/2018 17:00,SK Puntigamer Sturm Graz,TSV Prolactal Hartberg,3,2,Merkur Arena,Grunddurchgang
+1,07/28/2018 17:00,CASHPOINT SCR Altach,SV Mattersburg,2,3,CASHPOINT Arena,Grunddurchgang
+1,07/29/2018 17:00,FC Red Bull Salzburg,LASK,3,1,Red Bull Arena,Grunddurchgang
+1,07/29/2018 17:00,FC Flyeralarm Admira,SK Rapid Wien,0,3,BSFZ-Arena,Grunddurchgang
+1,07/29/2018 17:00,spusu SKN St. Pölten,RZ Pellets WAC,4,3,NV Arena,Grunddurchgang
+2,08/04/2018 17:00,FC Wacker Innsbruck,SK Puntigamer Sturm Graz,2,3,Tivoli Stadion Tirol,Grunddurchgang
+2,08/04/2018 17:00,SV Mattersburg,FC Red Bull Salzburg,0,2,Pappelstadion,Grunddurchgang
+2,08/04/2018 17:00,SK Rapid Wien,CASHPOINT SCR Altach,1,1,Allianz Stadion,Grunddurchgang
+2,08/05/2018 17:00,TSV Prolactal Hartberg,FC Flyeralarm Admira,0,1,Profertil Arena Hartberg,Grunddurchgang
+2,08/05/2018 17:00,LASK,spusu SKN St. Pölten,0,0,TGW Arena,Grunddurchgang
+2,08/05/2018 17:00,RZ Pellets WAC,FK Austria Wien,1,0,Lavanttal-Arena,Grunddurchgang
+3,08/11/2018 17:00,TSV Prolactal Hartberg,SV Mattersburg,4,2,Profertil Arena Hartberg,Grunddurchgang
+3,08/11/2018 17:00,CASHPOINT SCR Altach,FC Wacker Innsbruck,1,2,CASHPOINT Arena,Grunddurchgang
+3,08/11/2018 17:00,FC Red Bull Salzburg,FK Austria Wien,2,0,Red Bull Arena,Grunddurchgang
+3,08/12/2018 17:00,FC Flyeralarm Admira,LASK,0,1,BSFZ-Arena,Grunddurchgang
+3,08/12/2018 17:00,SK Rapid Wien,RZ Pellets WAC,0,0,Allianz Stadion,Grunddurchgang
+3,08/12/2018 17:00,spusu SKN St. Pölten,SK Puntigamer Sturm Graz,2,0,NV Arena,Grunddurchgang
+4,08/18/2018 17:00,FC Wacker Innsbruck,spusu SKN St. Pölten,0,2,Tivoli Stadion Tirol,Grunddurchgang
+4,08/18/2018 17:00,SV Mattersburg,RZ Pellets WAC,0,6,Pappelstadion,Grunddurchgang
+4,08/18/2018 17:00,FC Red Bull Salzburg,TSV Prolactal Hartberg,2,0,Red Bull Arena,Grunddurchgang
+4,08/19/2018 17:00,FK Austria Wien,FC Flyeralarm Admira,4,0,Generali-Arena,Grunddurchgang
+4,08/19/2018 17:00,SK Puntigamer Sturm Graz,CASHPOINT SCR Altach,1,1,Merkur Arena,Grunddurchgang
+4,08/19/2018 17:00,LASK,SK Rapid Wien,2,1,TGW Arena,Grunddurchgang
+5,08/25/2018 17:00,CASHPOINT SCR Altach,FC Red Bull Salzburg,2,3,CASHPOINT Arena,Grunddurchgang
+5,08/25/2018 17:00,spusu SKN St. Pölten,FK Austria Wien,0,0,NV Arena,Grunddurchgang
+5,08/25/2018 17:00,RZ Pellets WAC,SK Puntigamer Sturm Graz,1,1,Lavanttal-Arena,Grunddurchgang
+5,08/26/2018 17:00,TSV Prolactal Hartberg,LASK,0,1,Profertil Arena Hartberg,Grunddurchgang
+5,08/26/2018 17:00,FC Flyeralarm Admira,SV Mattersburg,0,0,BSFZ-Arena,Grunddurchgang
+5,08/26/2018 17:00,SK Rapid Wien,FC Wacker Innsbruck,2,1,Allianz Stadion,Grunddurchgang
+6,09/01/2018 17:00,FK Austria Wien,SV Mattersburg,2,1,Generali-Arena,Grunddurchgang
+6,09/01/2018 17:00,FC Wacker Innsbruck,TSV Prolactal Hartberg,2,1,Tivoli Stadion Tirol,Grunddurchgang
+6,09/01/2018 17:00,CASHPOINT SCR Altach,spusu SKN St. Pölten,1,2,CASHPOINT Arena,Grunddurchgang
+6,09/02/2018 17:00,SK Puntigamer Sturm Graz,SK Rapid Wien,1,1,Merkur Arena,Grunddurchgang
+6,09/02/2018 17:00,FC Red Bull Salzburg,FC Flyeralarm Admira,3,1,Red Bull Arena,Grunddurchgang
+6,09/02/2018 17:00,LASK,RZ Pellets WAC,2,0,TGW Arena,Grunddurchgang
+7,09/15/2018 17:00,TSV Prolactal Hartberg,CASHPOINT SCR Altach,2,1,Profertil Arena Hartberg,Grunddurchgang
+7,09/15/2018 17:00,FC Flyeralarm Admira,SK Puntigamer Sturm Graz,2,3,BSFZ-Arena,Grunddurchgang
+7,09/15/2018 17:00,spusu SKN St. Pölten,FC Red Bull Salzburg,1,3,NV Arena,Grunddurchgang
+7,09/16/2018 14:30,SV Mattersburg,LASK,1,3,Pappelstadion,Grunddurchgang
+7,09/16/2018 14:30,RZ Pellets WAC,FC Wacker Innsbruck,3,1,Lavanttal-Arena,Grunddurchgang
+7,09/16/2018 17:00,SK Rapid Wien,FK Austria Wien,0,1,Allianz Stadion,Grunddurchgang
+8,09/22/2018 17:00,SK Puntigamer Sturm Graz,SV Mattersburg,1,2,Merkur Arena,Grunddurchgang
+8,09/22/2018 17:00,CASHPOINT SCR Altach,RZ Pellets WAC,0,1,CASHPOINT Arena,Grunddurchgang
+8,09/22/2018 17:00,spusu SKN St. Pölten,TSV Prolactal Hartberg,3,0,NV Arena,Grunddurchgang
+8,09/23/2018 14:30,FK Austria Wien,LASK,0,3,Generali-Arena,Grunddurchgang
+8,09/23/2018 14:30,FC Wacker Innsbruck,FC Flyeralarm Admira,1,3,Tivoli Stadion Tirol,Grunddurchgang
+8,09/23/2018 17:00,FC Red Bull Salzburg,SK Rapid Wien,2,1,Red Bull Arena,Grunddurchgang
+9,09/29/2018 17:00,FC Flyeralarm Admira,CASHPOINT SCR Altach,2,4,BSFZ-Arena,Grunddurchgang
+9,09/29/2018 17:00,SK Rapid Wien,spusu SKN St. Pölten,0,2,Allianz Stadion,Grunddurchgang
+9,09/29/2018 17:00,RZ Pellets WAC,FC Red Bull Salzburg,1,4,Lavanttal-Arena,Grunddurchgang
+9,09/30/2018 14:30,TSV Prolactal Hartberg,FK Austria Wien,0,1,Profertil Arena Hartberg,Grunddurchgang
+9,09/30/2018 14:30,SV Mattersburg,FC Wacker Innsbruck,2,1,Pappelstadion,Grunddurchgang
+9,09/30/2018 17:00,LASK,SK Puntigamer Sturm Graz,0,0,TGW Arena,Grunddurchgang
+10,10/06/2018 17:00,CASHPOINT SCR Altach,FK Austria Wien,2,0,CASHPOINT Arena,Grunddurchgang
+10,10/06/2018 17:00,spusu SKN St. Pölten,FC Flyeralarm Admira,0,0,NV Arena,Grunddurchgang
+10,10/06/2018 17:00,RZ Pellets WAC,TSV Prolactal Hartberg,3,4,Lavanttal-Arena,Grunddurchgang
+10,10/07/2018 14:30,FC Wacker Innsbruck,LASK,1,0,Tivoli Stadion Tirol,Grunddurchgang
+10,10/07/2018 14:30,SK Rapid Wien,SV Mattersburg,1,0,Allianz Stadion,Grunddurchgang
+10,10/07/2018 17:00,SK Puntigamer Sturm Graz,FC Red Bull Salzburg,1,2,Merkur Arena,Grunddurchgang
+11,10/20/2018 17:00,TSV Prolactal Hartberg,SK Rapid Wien,3,0,Profertil Arena Hartberg,Grunddurchgang
+11,10/20/2018 17:00,FC Red Bull Salzburg,FC Wacker Innsbruck,1,1,Red Bull Arena,Grunddurchgang
+11,10/20/2018 17:00,LASK,CASHPOINT SCR Altach,1,1,TGW Arena,Grunddurchgang
+11,10/21/2018 14:30,SV Mattersburg,spusu SKN St. Pölten,2,0,Pappelstadion,Grunddurchgang
+11,10/21/2018 14:30,FC Flyeralarm Admira,RZ Pellets WAC,0,0,BSFZ-Arena,Grunddurchgang
+11,10/21/2018 17:00,FK Austria Wien,SK Puntigamer Sturm Graz,1,1,Generali-Arena,Grunddurchgang
+12,10/27/2018 17:00,FC Wacker Innsbruck,FK Austria Wien,0,0,Tivoli Stadion Tirol,Grunddurchgang
+12,10/27/2018 17:00,TSV Prolactal Hartberg,SK Puntigamer Sturm Graz,2,0,Profertil Arena Hartberg,Grunddurchgang
+12,10/27/2018 17:00,SV Mattersburg,CASHPOINT SCR Altach,1,1,Pappelstadion,Grunddurchgang
+12,10/28/2018 14:30,SK Rapid Wien,FC Flyeralarm Admira,2,0,Allianz Stadion,Grunddurchgang
+12,10/28/2018 14:30,RZ Pellets WAC,spusu SKN St. Pölten,1,0,Lavanttal-Arena,Grunddurchgang
+12,10/28/2018 17:00,LASK,FC Red Bull Salzburg,3,3,TGW Arena,Grunddurchgang
+13,11/03/2018 17:00,SK Puntigamer Sturm Graz,FC Wacker Innsbruck,1,1,Merkur Arena,Grunddurchgang
+13,11/03/2018 17:00,FC Flyeralarm Admira,TSV Prolactal Hartberg,2,3,BSFZ-Arena,Grunddurchgang
+13,11/03/2018 17:00,spusu SKN St. Pölten,LASK,2,2,NV Arena,Grunddurchgang
+13,11/04/2018 14:30,FC Red Bull Salzburg,SV Mattersburg,2,1,Red Bull Arena,Grunddurchgang
+13,11/04/2018 14:30,FK Austria Wien,RZ Pellets WAC,2,3,Generali-Arena,Grunddurchgang
+13,11/04/2018 17:00,CASHPOINT SCR Altach,SK Rapid Wien,2,2,CASHPOINT Arena,Grunddurchgang
+14,11/10/2018 17:00,FC Wacker Innsbruck,CASHPOINT SCR Altach,1,0,Tivoli Stadion Tirol,Grunddurchgang
+14,11/10/2018 17:00,LASK,FC Flyeralarm Admira,5,1,TGW Arena,Grunddurchgang
+14,11/10/2018 17:00,SK Puntigamer Sturm Graz,spusu SKN St. Pölten,0,0,Merkur Arena,Grunddurchgang
+14,11/11/2018 14:30,SV Mattersburg,TSV Prolactal Hartberg,1,2,Pappelstadion,Grunddurchgang
+14,11/11/2018 14:30,RZ Pellets WAC,SK Rapid Wien,3,1,Lavanttal-Arena,Grunddurchgang
+14,11/11/2018 17:00,FK Austria Wien,FC Red Bull Salzburg,0,2,Generali-Arena,Grunddurchgang
+15,11/24/2018 17:00,FC Flyeralarm Admira,FK Austria Wien,1,2,BSFZ-Arena,Grunddurchgang
+15,11/24/2018 17:00,RZ Pellets WAC,SV Mattersburg,2,2,Lavanttal-Arena,Grunddurchgang
+15,11/24/2018 17:00,TSV Prolactal Hartberg,FC Red Bull Salzburg,0,4,Profertil Arena Hartberg,Grunddurchgang
+15,11/25/2018 14:30,spusu SKN St. Pölten,FC Wacker Innsbruck,2,0,NV Arena,Grunddurchgang
+15,11/25/2018 14:30,CASHPOINT SCR Altach,SK Puntigamer Sturm Graz,0,2,CASHPOINT Arena,Grunddurchgang
+15,11/25/2018 17:00,SK Rapid Wien,LASK,0,1,Allianz Stadion,Grunddurchgang
+16,12/01/2018 17:00,LASK,TSV Prolactal Hartberg,3,3,TGW Arena,Grunddurchgang
+16,12/01/2018 17:00,SV Mattersburg,FC Flyeralarm Admira,2,2,Pappelstadion,Grunddurchgang
+16,12/01/2018 17:00,FK Austria Wien,spusu SKN St. Pölten,2,0,Generali-Arena,Grunddurchgang
+16,12/02/2018 14:30,FC Red Bull Salzburg,CASHPOINT SCR Altach,1,0,Red Bull Arena,Grunddurchgang
+16,12/02/2018 14:30,FC Wacker Innsbruck,SK Rapid Wien,0,1,Tivoli Stadion Tirol,Grunddurchgang
+16,12/02/2018 17:00,SK Puntigamer Sturm Graz,RZ Pellets WAC,3,0,Merkur Arena,Grunddurchgang
+17,12/08/2018 17:00,spusu SKN St. Pölten,CASHPOINT SCR Altach,2,1,NV Arena,Grunddurchgang
+17,12/08/2018 17:00,FC Flyeralarm Admira,FC Red Bull Salzburg,2,2,BSFZ-Arena,Grunddurchgang
+17,12/08/2018 17:00,RZ Pellets WAC,LASK,1,1,Lavanttal-Arena,Grunddurchgang
+17,12/09/2018 14:30,SV Mattersburg,FK Austria Wien,2,1,Pappelstadion,Grunddurchgang
+17,12/09/2018 14:30,TSV Prolactal Hartberg,FC Wacker Innsbruck,2,2,Profertil Arena Hartberg,Grunddurchgang
+17,12/09/2018 17:00,SK Rapid Wien,SK Puntigamer Sturm Graz,0,0,Allianz Stadion,Grunddurchgang
+18,12/15/2018 17:00,LASK,SV Mattersburg,2,1,TGW Arena,Grunddurchgang
+18,12/15/2018 17:00,SK Puntigamer Sturm Graz,FC Flyeralarm Admira,3,0,Merkur Arena,Grunddurchgang
+18,12/15/2018 17:00,FC Wacker Innsbruck,RZ Pellets WAC,0,0,Tivoli Stadion Tirol,Grunddurchgang
+18,12/16/2018 14:30,CASHPOINT SCR Altach,TSV Prolactal Hartberg,6,1,CASHPOINT Arena,Grunddurchgang
+18,12/16/2018 14:30,FC Red Bull Salzburg,spusu SKN St. Pölten,5,1,Red Bull Arena,Grunddurchgang
+18,12/16/2018 17:00,FK Austria Wien,SK Rapid Wien,6,1,Generali-Arena,Grunddurchgang
+19,02/22/2019 19:30,LASK,FK Austria Wien,2,0,TGW Arena,Grunddurchgang
+19,02/23/2019 17:00,FC Flyeralarm Admira,FC Wacker Innsbruck,3,0,BSFZ-Arena,Grunddurchgang
+19,02/23/2019 17:00,RZ Pellets WAC,CASHPOINT SCR Altach,0,0,Lavanttal-Arena,Grunddurchgang
+19,02/24/2019 14:30,SV Mattersburg,SK Puntigamer Sturm Graz,1,1,Pappelstadion,Grunddurchgang
+19,02/24/2019 14:30,TSV Prolactal Hartberg,spusu SKN St. Pölten,1,1,Profertil Arena Hartberg,Grunddurchgang
+19,02/24/2019 17:00,SK Rapid Wien,FC Red Bull Salzburg,2,0,Allianz Stadion,Grunddurchgang
+20,03/02/2019 17:00,CASHPOINT SCR Altach,FC Flyeralarm Admira,0,1,CASHPOINT Arena,Grunddurchgang
+20,03/02/2019 17:00,spusu SKN St. Pölten,SK Rapid Wien,0,4,NV Arena,Grunddurchgang
+20,03/02/2019 17:00,FC Red Bull Salzburg,RZ Pellets WAC,3,0,Red Bull Arena,Grunddurchgang
+20,03/03/2019 14:30,FK Austria Wien,TSV Prolactal Hartberg,4,2,Generali-Arena,Grunddurchgang
+20,03/03/2019 14:30,SK Puntigamer Sturm Graz,LASK,0,3,Merkur Arena,Grunddurchgang
+20,03/03/2019 17:00,FC Wacker Innsbruck,SV Mattersburg,0,1,Tivoli Stadion Tirol,Grunddurchgang
+21,03/10/2019 17:00,LASK,FC Wacker Innsbruck,2,0,TGW Arena,Grunddurchgang
+21,03/10/2019 17:00,FC Red Bull Salzburg,SK Puntigamer Sturm Graz,0,0,Red Bull Arena,Grunddurchgang
+21,03/10/2019 17:00,FK Austria Wien,CASHPOINT SCR Altach,1,3,Generali-Arena,Grunddurchgang
+21,03/10/2019 17:00,SV Mattersburg,SK Rapid Wien,2,1,Pappelstadion,Grunddurchgang
+21,03/10/2019 17:00,FC Flyeralarm Admira,spusu SKN St. Pölten,3,2,BSFZ-Arena,Grunddurchgang
+21,03/10/2019 17:00,TSV Prolactal Hartberg,RZ Pellets WAC,1,1,Profertil Arena Hartberg,Grunddurchgang
+22,03/17/2019 17:00,SK Puntigamer Sturm Graz,FK Austria Wien,1,0,Merkur Arena,Grunddurchgang
+22,03/17/2019 17:00,SK Rapid Wien,TSV Prolactal Hartberg,2,2,Allianz Stadion,Grunddurchgang
+22,03/17/2019 17:00,spusu SKN St. Pölten,SV Mattersburg,0,1,NV Arena,Grunddurchgang
+22,03/17/2019 17:00,FC Wacker Innsbruck,FC Red Bull Salzburg,0,2,Tivoli Stadion Tirol,Grunddurchgang
+22,03/17/2019 17:00,CASHPOINT SCR Altach,LASK,1,2,CASHPOINT Arena,Grunddurchgang
+22,03/17/2019 17:00,RZ Pellets WAC,FC Flyeralarm Admira,2,2,Lavanttal-Arena,Grunddurchgang
+23,03/30/2019 17:00,CASHPOINT SCR Altach,SV Mattersburg,2,1,CASHPOINT Arena,Finaldurchgang
+23,03/30/2019 17:00,TSV Prolactal Hartberg,FC Wacker Innsbruck,0,2,Profertil Arena Hartberg,Finaldurchgang
+23,03/30/2019 17:00,SK Rapid Wien,FC Flyeralarm Admira,3,0,Allianz Stadion,Finaldurchgang
+23,03/31/2019 14:30,SK Puntigamer Sturm Graz,spusu SKN St. Pölten,0,1,Merkur Arena,Finaldurchgang
+23,03/31/2019 14:30,RZ Pellets WAC,LASK,0,3,Lavanttal-Arena,Finaldurchgang
+23,03/31/2019 17:00,FC Red Bull Salzburg,FK Austria Wien,5,1,Red Bull Arena,Finaldurchgang
+24,04/06/2019 17:00,SV Mattersburg,TSV Prolactal Hartberg,3,0,Pappelstadion,Finaldurchgang
+24,04/06/2019 17:00,FC Wacker Innsbruck,SK Rapid Wien,0,2,Tivoli Stadion Tirol,Finaldurchgang
+24,04/06/2019 17:00,FC Flyeralarm Admira,CASHPOINT SCR Altach,1,1,BSFZ-Arena,Finaldurchgang
+24,04/07/2019 14:30,spusu SKN St. Pölten,RZ Pellets WAC,1,3,NV Arena,Finaldurchgang
+24,04/07/2019 14:30,FK Austria Wien,SK Puntigamer Sturm Graz,0,1,Generali-Arena,Finaldurchgang
+24,04/07/2019 17:00,LASK,FC Red Bull Salzburg,0,2,TGW Arena,Finaldurchgang
+25,04/13/2019 17:00,TSV Prolactal Hartberg,CASHPOINT SCR Altach,0,1,Profertil Arena Hartberg,Finaldurchgang
+25,04/13/2019 17:00,FC Wacker Innsbruck,FC Flyeralarm Admira,1,3,Tivoli Stadion Tirol,Finaldurchgang
+25,04/13/2019 17:00,SK Rapid Wien,SV Mattersburg,2,1,Allianz Stadion,Finaldurchgang
+25,04/14/2019 14:30,RZ Pellets WAC,FK Austria Wien,1,1,Lavanttal-Arena,Finaldurchgang
+25,04/14/2019 14:30,LASK,spusu SKN St. Pölten,0,0,TGW Arena,Finaldurchgang
+25,04/14/2019 17:00,FC Red Bull Salzburg,SK Puntigamer Sturm Graz,3,1,Red Bull Arena,Finaldurchgang
+26,04/20/2019 17:00,CASHPOINT SCR Altach,SK Rapid Wien,2,2,CASHPOINT Arena,Finaldurchgang
+26,04/20/2019 17:00,SV Mattersburg,FC Wacker Innsbruck,3,1,Pappelstadion,Finaldurchgang
+26,04/20/2019 17:00,FC Flyeralarm Admira,TSV Prolactal Hartberg,2,1,BSFZ-Arena,Finaldurchgang
+26,04/21/2019 14:30,SK Puntigamer Sturm Graz,RZ Pellets WAC,1,2,Merkur Arena,Finaldurchgang
+26,04/21/2019 14:30,spusu SKN St. Pölten,FC Red Bull Salzburg,1,1,NV Arena,Finaldurchgang
+26,04/21/2019 17:00,FK Austria Wien,LASK,2,2,Generali-Arena,Finaldurchgang
+27,04/23/2019 19:00,TSV Prolactal Hartberg,SK Rapid Wien,2,4,Profertil Arena Hartberg,Finaldurchgang
+27,04/23/2019 19:00,FC Wacker Innsbruck,CASHPOINT SCR Altach,0,4,Tivoli Stadion Tirol,Finaldurchgang
+27,04/23/2019 19:00,FC Flyeralarm Admira,SV Mattersburg,0,2,BSFZ-Arena,Finaldurchgang
+27,04/24/2019 19:00,LASK,SK Puntigamer Sturm Graz,1,2,TGW Arena,Finaldurchgang
+27,04/24/2019 19:00,FC Red Bull Salzburg,RZ Pellets WAC,3,1,Red Bull Arena,Finaldurchgang
+27,04/24/2019 19:00,FK Austria Wien,spusu SKN St. Pölten,2,2,Generali-Arena,Finaldurchgang
+28,04/27/2019 17:00,CASHPOINT SCR Altach,FC Wacker Innsbruck,1,4,CASHPOINT Arena,Finaldurchgang
+28,04/27/2019 17:00,SV Mattersburg,FC Flyeralarm Admira,1,1,Pappelstadion,Finaldurchgang
+28,04/27/2019 17:00,SK Rapid Wien,TSV Prolactal Hartberg,3,4,Allianz Stadion,Finaldurchgang
+28,04/28/2019 14:30,spusu SKN St. Pölten,FK Austria Wien,1,2,NV Arena,Finaldurchgang
+28,04/28/2019 14:30,RZ Pellets WAC,FC Red Bull Salzburg,2,1,Lavanttal-Arena,Finaldurchgang
+28,04/28/2019 17:00,SK Puntigamer Sturm Graz,LASK,2,3,Merkur Arena,Finaldurchgang
+29,05/04/2019 17:00,SV Mattersburg,CASHPOINT SCR Altach,0,0,Pappelstadion,Finaldurchgang
+29,05/04/2019 17:00,FC Wacker Innsbruck,TSV Prolactal Hartberg,1,0,Tivoli Stadion Tirol,Finaldurchgang
+29,05/04/2019 17:00,FC Flyeralarm Admira,SK Rapid Wien,3,4,BSFZ-Arena,Finaldurchgang
+29,05/05/2019 14:30,spusu SKN St. Pölten,SK Puntigamer Sturm Graz,0,1,NV Arena,Finaldurchgang
+29,05/05/2019 14:30,LASK,RZ Pellets WAC,3,0,TGW Arena,Finaldurchgang
+29,05/05/2019 17:00,FK Austria Wien,FC Red Bull Salzburg,1,2,Generali-Arena,Finaldurchgang
+30,05/11/2019 17:00,CASHPOINT SCR Altach,FC Flyeralarm Admira,2,2,CASHPOINT Arena,Finaldurchgang
+30,05/11/2019 17:00,TSV Prolactal Hartberg,SV Mattersburg,2,1,Profertil Arena Hartberg,Finaldurchgang
+30,05/11/2019 17:00,SK Rapid Wien,FC Wacker Innsbruck,1,0,Allianz Stadion,Finaldurchgang
+30,05/12/2019 14:30,SK Puntigamer Sturm Graz,FK Austria Wien,1,3,Merkur Arena,Finaldurchgang
+30,05/12/2019 14:30,RZ Pellets WAC,spusu SKN St. Pölten,4,0,Lavanttal-Arena,Finaldurchgang
+30,05/12/2019 17:00,FC Red Bull Salzburg,LASK,2,1,Red Bull Arena,Finaldurchgang
+31,05/18/2019 17:00,CASHPOINT SCR Altach,TSV Prolactal Hartberg,3,1,CASHPOINT Arena,Finaldurchgang
+31,05/18/2019 17:00,SV Mattersburg,SK Rapid Wien,1,0,Pappelstadion,Finaldurchgang
+31,05/18/2019 17:00,FC Flyeralarm Admira,FC Wacker Innsbruck,3,2,BSFZ-Arena,Finaldurchgang
+31,05/19/2019 17:00,SK Puntigamer Sturm Graz,FC Red Bull Salzburg,1,2,Merkur Arena,Finaldurchgang
+31,05/19/2019 17:00,spusu SKN St. Pölten,LASK,0,1,NV Arena,Finaldurchgang
+31,05/19/2019 17:00,FK Austria Wien,RZ Pellets WAC,2,0,Generali-Arena,Finaldurchgang
+32,05/25/2019 17:00,TSV Prolactal Hartberg,FC Flyeralarm Admira,3,1,Profertil Arena Hartberg,Finaldurchgang
+32,05/25/2019 17:00,FC Wacker Innsbruck,SV Mattersburg,4,0,Tivoli Stadion Tirol,Finaldurchgang
+32,05/25/2019 17:00,SK Rapid Wien,CASHPOINT SCR Altach,1,2,Allianz Stadion,Finaldurchgang
+32,05/26/2019 17:00,RZ Pellets WAC,SK Puntigamer Sturm Graz,2,1,Lavanttal-Arena,Finaldurchgang
+32,05/26/2019 17:00,LASK,FK Austria Wien,5,2,TGW Arena,Finaldurchgang
+32,05/26/2019 17:00,FC Red Bull Salzburg,spusu SKN St. Pölten,7,0,Red Bull Arena,Finaldurchgang
+33,05/28/2019 19:00,SK Rapid Wien,SV Mattersburg,2,0,Allianz Stadion,Europe League-Play-off
+34,05/30/2019 17:00,SK Rapid Wien,SK Puntigamer Sturm Graz,1,2,Allianz Stadion,Europe League-Play-off
+35,06/02/2019 17:00,SK Puntigamer Sturm Graz,SK Rapid Wien,0,1,Merkur Arena,Europe League-Play-off
