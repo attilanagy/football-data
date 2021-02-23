@@ -1,0 +1,161 @@
+round,date,home_team,away_team,home_score,away_score,stadium,stage
+,04/28/2002,AC Allianssi,FC Hämeenlinna,2,1,,Runkosarja
+,04/28/2002,FC Haka,HJK,2,1,,Runkosarja
+,04/28/2002,FC Inter,FC Lahti,3,0,,Runkosarja
+,04/28/2002,FC Jazz,FF Jaro,0,1,,Runkosarja
+,04/28/2002,MYPA,KuPS,2,0,,Runkosarja
+,04/28/2002,VPS,TamU,1,1,,Runkosarja
+,05/01/2002,FC Hämeenlinna,FC Inter,0,0,,Runkosarja
+,05/01/2002,FC Lahti,FF Jaro,0,0,,Runkosarja
+,05/01/2002,HJK,FC Jazz,1,0,,Runkosarja
+,05/01/2002,TamU,AC Allianssi,0,0,,Runkosarja
+,05/01/2002,VPS,MYPA,1,1,,Runkosarja
+,05/04/2002,KuPS,FC Haka,2,1,,Runkosarja
+,05/08/2002,AC Allianssi,KuPS,4,2,,Runkosarja
+,05/08/2002,FC Haka,FC Lahti,0,1,,Runkosarja
+,05/08/2002,FC Inter,TamU,0,1,,Runkosarja
+,05/08/2002,FC Jazz,VPS,2,0,,Runkosarja
+,05/08/2002,FF Jaro,FC Hämeenlinna,1,1,,Runkosarja
+,05/08/2002,MYPA,HJK,3,0,,Runkosarja
+,05/13/2002,AC Allianssi,MYPA,2,3,,Runkosarja
+,05/13/2002,FC Hämeenlinna,FC Haka,0,1,,Runkosarja
+,05/13/2002,FC Lahti,HJK,0,1,,Runkosarja
+,05/13/2002,KuPS,FF Jaro,2,2,,Runkosarja
+,05/13/2002,TamU,FC Jazz,0,0,,Runkosarja
+,05/13/2002,VPS,FC Inter,2,2,,Runkosarja
+,05/16/2002,HJK,FC Hämeenlinna,4,1,,Runkosarja
+,05/19/2002,FC Haka,VPS,2,1,,Runkosarja
+,05/19/2002,FC Inter,AC Allianssi,1,0,,Runkosarja
+,05/19/2002,FF Jaro,TamU,2,0,,Runkosarja
+,05/19/2002,MYPA,FC Lahti,3,1,,Runkosarja
+,05/20/2002,FC Jazz,KuPS,2,2,,Runkosarja
+,05/26/2002,FC Haka,FC Jazz,2,1,,Runkosarja
+,05/26/2002,FC Lahti,KuPS,2,1,,Runkosarja
+,05/26/2002,MYPA,FC Inter,1,1,,Runkosarja
+,05/26/2002,VPS,AC Allianssi,0,1,,Runkosarja
+,05/27/2002,FC Hämeenlinna,TamU,1,1,,Runkosarja
+,05/27/2002,HJK,FF Jaro,4,2,,Runkosarja
+,05/30/2002,AC Allianssi,FC Lahti,2,0,,Runkosarja
+,05/30/2002,FC Hämeenlinna,MYPA,0,0,,Runkosarja
+,05/30/2002,FC Jazz,FC Inter,0,5,,Runkosarja
+,05/30/2002,FF Jaro,FC Haka,0,1,,Runkosarja
+,05/30/2002,KuPS,VPS,0,2,,Runkosarja
+,05/30/2002,TamU,HJK,1,1,,Runkosarja
+,06/02/2002,FC Inter,FF Jaro,3,1,,Runkosarja
+,06/02/2002,FC Lahti,TamU,0,2,,Runkosarja
+,06/02/2002,MYPA,FC Jazz,1,3,,Runkosarja
+,06/02/2002,VPS,FC Hämeenlinna,2,1,,Runkosarja
+,06/03/2002,FC Haka,AC Allianssi,4,0,,Runkosarja
+,06/06/2002,AC Allianssi,HJK,2,2,,Runkosarja
+,06/06/2002,FC Hämeenlinna,FC Jazz,3,0,,Runkosarja
+,06/06/2002,FC Lahti,VPS,0,0,,Runkosarja
+,06/06/2002,FF Jaro,MYPA,0,3,,Runkosarja
+,06/06/2002,KuPS,FC Inter,0,0,,Runkosarja
+,06/06/2002,TamU,FC Haka,2,2,,Runkosarja
+,06/10/2002,HJK,MYPA,1,1,,Runkosarja
+,06/13/2002,AC Allianssi,FF Jaro,1,0,,Runkosarja
+,06/13/2002,FC Hämeenlinna,KuPS,2,1,,Runkosarja
+,06/13/2002,FC Inter,FC Haka,1,0,,Runkosarja
+,06/13/2002,FC Lahti,FC Jazz,3,2,,Runkosarja
+,06/13/2002,MYPA,TamU,0,0,,Runkosarja
+,06/13/2002,VPS,HJK,0,2,,Runkosarja
+,06/16/2002,FF Jaro,VPS,2,1,,Runkosarja
+,06/16/2002,HJK,FC Inter,1,0,,Runkosarja
+,06/16/2002,KuPS,TamU,0,1,,Runkosarja
+,06/17/2002,FC Haka,MYPA,1,3,,Runkosarja
+,06/17/2002,FC Jazz,AC Allianssi,0,1,,Runkosarja
+,06/19/2002,FC Lahti,FC Hämeenlinna,2,2,,Runkosarja
+,06/26/2002,KuPS,MYPA,2,1,,Runkosarja
+,06/27/2002,FC Hämeenlinna,AC Allianssi,2,2,,Runkosarja
+,06/27/2002,FC Lahti,FC Inter,0,2,,Runkosarja
+,06/27/2002,FF Jaro,FC Jazz,2,0,,Runkosarja
+,06/27/2002,HJK,FC Haka,0,3,,Runkosarja
+,06/27/2002,TamU,VPS,2,1,,Runkosarja
+,07/04/2002,AC Allianssi,TamU,1,1,,Runkosarja
+,07/04/2002,FC Inter,FC Hämeenlinna,4,1,,Runkosarja
+,07/04/2002,FC Jazz,HJK,0,2,,Runkosarja
+,07/04/2002,FF Jaro,FC Lahti,0,3,,Runkosarja
+,07/04/2002,MYPA,VPS,3,0,,Runkosarja
+,07/07/2002,FC Hämeenlinna,FF Jaro,0,1,,Runkosarja
+,07/07/2002,KuPS,AC Allianssi,4,0,,Runkosarja
+,07/07/2002,VPS,FC Jazz,1,2,,Runkosarja
+,07/08/2002,TamU,FC Inter,3,0,,Runkosarja
+,07/10/2002,HJK,KuPS,4,0,,Runkosarja
+,07/14/2002,FC Inter,VPS,5,1,,Runkosarja
+,07/14/2002,FC Jazz,TamU,1,0,,Runkosarja
+,07/14/2002,FF Jaro,KuPS,0,0,,Runkosarja
+,07/14/2002,HJK,FC Lahti,0,1,,Runkosarja
+,07/15/2002,MYPA,AC Allianssi,4,0,,Runkosarja
+,07/18/2002,FC Haka,FC Hämeenlinna,1,1,,Runkosarja
+,07/21/2002,AC Allianssi,FC Inter,2,0,,Runkosarja
+,07/21/2002,FC Lahti,MYPA,2,1,,Runkosarja
+,07/21/2002,KuPS,FC Jazz,7,1,,Runkosarja
+,07/21/2002,TamU,FF Jaro,1,1,,Runkosarja
+,07/21/2002,VPS,FC Haka,0,1,,Runkosarja
+,07/22/2002,FC Hämeenlinna,HJK,0,1,,Runkosarja
+,07/24/2002,FC Lahti,FC Haka,0,0,,Runkosarja
+,07/25/2002,FF Jaro,HJK,0,4,,Runkosarja
+,08/01/2002,AC Allianssi,VPS,6,1,,Runkosarja
+,08/01/2002,FC Inter,MYPA,1,1,,Runkosarja
+,08/01/2002,FC Jazz,FC Haka,0,3,,Runkosarja
+,08/01/2002,KuPS,FC Lahti,1,2,,Runkosarja
+,08/04/2002,FC Inter,FC Jazz,0,0,,Runkosarja
+,08/04/2002,HJK,TamU,1,0,,Runkosarja
+,08/04/2002,MYPA,FC Hämeenlinna,3,3,,Runkosarja
+,08/04/2002,VPS,KuPS,0,0,,Runkosarja
+,08/05/2002,FC Lahti,AC Allianssi,1,2,,Runkosarja
+,08/08/2002,FC Haka,FF Jaro,2,1,,Runkosarja
+,08/11/2002,FC Hämeenlinna,VPS,2,4,,Runkosarja
+,08/11/2002,FC Jazz,MYPA,0,1,,Runkosarja
+,08/11/2002,FF Jaro,FC Inter,2,0,,Runkosarja
+,08/11/2002,KuPS,HJK,0,1,,Runkosarja
+,08/11/2002,TamU,FC Lahti,1,1,,Runkosarja
+,08/12/2002,AC Allianssi,FC Haka,0,3,,Runkosarja
+,08/14/2002,TamU,FC Hämeenlinna,2,0,,Runkosarja
+,08/15/2002,FC Haka,KuPS,0,1,,Runkosarja
+,08/18/2002,FC Inter,KuPS,0,0,,Runkosarja
+,08/18/2002,FC Jazz,FC Hämeenlinna,0,0,,Runkosarja
+,08/18/2002,HJK,AC Allianssi,2,0,,Runkosarja
+,08/18/2002,VPS,FC Lahti,0,1,,Runkosarja
+,08/19/2002,FC Haka,TamU,1,1,,Runkosarja
+,08/19/2002,MYPA,FF Jaro,5,1,,Runkosarja
+,08/24/2002,MYPA,FC Haka,2,1,,Runkosarja
+,08/25/2002,AC Allianssi,FC Jazz,5,2,,Runkosarja
+,08/25/2002,FC Hämeenlinna,FC Lahti,2,1,,Runkosarja
+,08/25/2002,FC Inter,HJK,0,1,,Runkosarja
+,08/25/2002,VPS,FF Jaro,3,1,,Runkosarja
+,08/26/2002,TamU,KuPS,3,0,,Runkosarja
+,08/31/2002,FF Jaro,AC Allianssi,3,2,,Runkosarja
+,08/31/2002,KuPS,FC Hämeenlinna,1,0,,Runkosarja
+,09/01/2002,FC Haka,FC Inter,0,0,,Runkosarja
+,09/01/2002,FC Jazz,FC Lahti,1,2,,Runkosarja
+,09/01/2002,TamU,MYPA,0,1,,Runkosarja
+,09/02/2002,HJK,VPS,2,0,,Runkosarja
+,09/14/2002,MYPA,FC Lahti,1,0,,Loppusarja
+,09/16/2002,AC Allianssi,FC Inter,1,0,,Loppusarja
+,09/16/2002,FC Haka,TamU,1,1,,Loppusarja
+,09/16/2002,HJK,FF Jaro,2,0,,Loppusarja
+,09/21/2002,FC Inter,FC Haka,2,5,,Loppusarja
+,09/22/2002,FC Lahti,HJK,0,5,,Loppusarja
+,09/23/2002,AC Allianssi,FF Jaro,0,1,,Loppusarja
+,09/23/2002,TamU,MYPA,0,0,,Loppusarja
+,09/28/2002,HJK,TamU,3,2,,Loppusarja
+,09/29/2002,FF Jaro,FC Lahti,4,1,,Loppusarja
+,09/30/2002,FC Haka,AC Allianssi,2,1,,Loppusarja
+,09/30/2002,MYPA,FC Inter,2,0,,Loppusarja
+,10/05/2002,AC Allianssi,MYPA,0,3,,Loppusarja
+,10/06/2002,FF Jaro,TamU,3,1,,Loppusarja
+,10/07/2002,FC Inter,HJK,0,1,,Loppusarja
+,10/07/2002,FC Lahti,FC Haka,0,4,,Loppusarja
+,10/19/2002,HJK,AC Allianssi,1,0,,Loppusarja
+,10/19/2002,MYPA,FC Haka,5,3,,Loppusarja
+,10/19/2002,TamU,FC Lahti,1,1,,Loppusarja
+,10/20/2002,FF Jaro,FC Inter,1,1,,Loppusarja
+,10/23/2002,AC Allianssi,FC Lahti,1,0,,Loppusarja
+,10/23/2002,FC Haka,HJK,1,1,,Loppusarja
+,10/23/2002,FC Inter,TamU,0,2,,Loppusarja
+,10/23/2002,MYPA,FF Jaro,1,0,,Loppusarja
+,10/26/2002,FC Haka,FF Jaro,4,2,,Loppusarja
+,10/26/2002,FC Lahti,FC Inter,0,2,,Loppusarja
+,10/26/2002,HJK,MYPA,2,2,,Loppusarja
+,10/26/2002,TamU,AC Allianssi,1,1,,Loppusarja

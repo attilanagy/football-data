@@ -1,0 +1,151 @@
+round,date,home_team,away_team,home_score,away_score,stadium,stage
+,04/29/1990,FC Haka,MP,1,1,,Runkosarja
+,04/29/1990,HJK,Kuusysi,0,3,,Runkosarja
+,04/29/1990,KPV,OTP,0,0,,Runkosarja
+,04/29/1990,KuPS,Ilves,2,1,,Runkosarja
+,04/29/1990,Reipas,RoPS,0,1,,Runkosarja
+,04/29/1990,TPS,Kumu,0,0,,Runkosarja
+,05/06/1990,Ilves,TPS,0,0,,Runkosarja
+,05/06/1990,Kumu,Reipas,1,1,,Runkosarja
+,05/06/1990,Kuusysi,KPV,2,0,,Runkosarja
+,05/06/1990,MP,HJK,1,1,,Runkosarja
+,05/06/1990,OTP,FC Haka,0,0,,Runkosarja
+,05/06/1990,RoPS,KuPS,1,0,,Runkosarja
+,05/10/1990,FC Haka,HJK,3,1,,Runkosarja
+,05/10/1990,KPV,Reipas,1,1,,Runkosarja
+,05/10/1990,Kuusysi,OTP,3,1,,Runkosarja
+,05/10/1990,MP,Ilves,2,0,,Runkosarja
+,05/13/1990,Ilves,Kuusysi,1,1,,Runkosarja
+,05/13/1990,Kumu,FC Haka,0,0,,Runkosarja
+,05/13/1990,KuPS,KPV,1,0,,Runkosarja
+,05/13/1990,Reipas,MP,0,2,,Runkosarja
+,05/13/1990,RoPS,HJK,3,0,,Runkosarja
+,05/13/1990,TPS,OTP,3,0,,Runkosarja
+,05/20/1990,HJK,Kumu,5,3,,Runkosarja
+,05/20/1990,Ilves,FC Haka,2,3,,Runkosarja
+,05/20/1990,KuPS,OTP,0,0,,Runkosarja
+,05/20/1990,Reipas,Kuusysi,0,2,,Runkosarja
+,05/20/1990,RoPS,KPV,1,0,,Runkosarja
+,05/20/1990,TPS,MP,0,0,,Runkosarja
+,05/24/1990,FC Haka,KuPS,1,2,,Runkosarja
+,05/24/1990,HJK,TPS,2,0,,Runkosarja
+,05/24/1990,KPV,Ilves,0,4,,Runkosarja
+,05/24/1990,Kuusysi,Kumu,0,0,,Runkosarja
+,05/24/1990,MP,RoPS,1,1,,Runkosarja
+,05/24/1990,OTP,Reipas,0,0,,Runkosarja
+,05/27/1990,Kumu,RoPS,1,2,,Runkosarja
+,05/27/1990,KuPS,TPS,2,0,,Runkosarja
+,05/30/1990,HJK,KPV,1,0,,Runkosarja
+,05/30/1990,Ilves,Kumu,3,0,,Runkosarja
+,05/30/1990,OTP,MP,2,0,,Runkosarja
+,05/30/1990,Reipas,KuPS,0,0,,Runkosarja
+,05/30/1990,RoPS,Kuusysi,2,0,,Runkosarja
+,05/30/1990,TPS,FC Haka,0,1,,Runkosarja
+,06/03/1990,FC Haka,Reipas,0,6,,Runkosarja
+,06/03/1990,HJK,Ilves,2,2,,Runkosarja
+,06/03/1990,KPV,Kumu,2,0,,Runkosarja
+,06/03/1990,Kuusysi,TPS,0,0,,Runkosarja
+,06/03/1990,MP,KuPS,0,0,,Runkosarja
+,06/03/1990,OTP,RoPS,0,0,,Runkosarja
+,06/07/1990,Ilves,OTP,4,2,,Runkosarja
+,06/07/1990,Kumu,MP,1,3,,Runkosarja
+,06/07/1990,KuPS,Kuusysi,2,3,,Runkosarja
+,06/07/1990,Reipas,HJK,1,1,,Runkosarja
+,06/07/1990,RoPS,FC Haka,1,1,,Runkosarja
+,06/07/1990,TPS,KPV,0,0,,Runkosarja
+,06/10/1990,HJK,OTP,1,0,,Runkosarja
+,06/10/1990,Ilves,RoPS,1,2,,Runkosarja
+,06/10/1990,KPV,MP,3,1,,Runkosarja
+,06/10/1990,Kumu,KuPS,1,1,,Runkosarja
+,06/10/1990,Kuusysi,FC Haka,5,0,,Runkosarja
+,06/10/1990,TPS,Reipas,2,3,,Runkosarja
+,06/17/1990,FC Haka,KPV,2,0,,Runkosarja
+,06/17/1990,KuPS,HJK,2,3,,Runkosarja
+,06/17/1990,MP,Kuusysi,0,1,,Runkosarja
+,06/17/1990,OTP,Kumu,1,0,,Runkosarja
+,06/17/1990,Reipas,Ilves,7,1,,Runkosarja
+,06/17/1990,RoPS,TPS,1,1,,Runkosarja
+,06/20/1990,Ilves,KuPS,0,1,,Runkosarja
+,06/20/1990,Kumu,TPS,0,4,,Runkosarja
+,06/20/1990,Kuusysi,HJK,1,0,,Runkosarja
+,06/20/1990,MP,FC Haka,2,1,,Runkosarja
+,06/20/1990,OTP,KPV,2,0,,Runkosarja
+,06/20/1990,RoPS,Reipas,1,0,,Runkosarja
+,06/28/1990,FC Haka,OTP,2,1,,Runkosarja
+,06/28/1990,HJK,MP,4,1,,Runkosarja
+,06/28/1990,KPV,Kuusysi,1,0,,Runkosarja
+,06/28/1990,KuPS,RoPS,1,4,,Runkosarja
+,06/28/1990,Reipas,Kumu,3,0,,Runkosarja
+,06/28/1990,TPS,Ilves,0,4,,Runkosarja
+,07/01/1990,FC Haka,Kumu,1,0,,Runkosarja
+,07/01/1990,KPV,KuPS,0,2,,Runkosarja
+,07/01/1990,Kuusysi,Ilves,2,1,,Runkosarja
+,07/01/1990,MP,Reipas,0,3,,Runkosarja
+,07/01/1990,OTP,TPS,0,4,,Runkosarja
+,07/11/1990,HJK,RoPS,3,0,,Runkosarja
+,07/15/1990,Ilves,KPV,1,0,,Runkosarja
+,07/15/1990,Kumu,Kuusysi,0,2,,Runkosarja
+,07/15/1990,KuPS,FC Haka,1,1,,Runkosarja
+,07/15/1990,Reipas,OTP,1,1,,Runkosarja
+,07/15/1990,RoPS,MP,0,0,,Runkosarja
+,07/15/1990,TPS,HJK,1,1,,Runkosarja
+,07/22/1990,FC Haka,Ilves,3,3,,Runkosarja
+,07/22/1990,KPV,RoPS,2,1,,Runkosarja
+,07/22/1990,Kumu,HJK,0,4,,Runkosarja
+,07/22/1990,Kuusysi,Reipas,0,0,,Runkosarja
+,07/22/1990,MP,TPS,1,1,,Runkosarja
+,07/22/1990,OTP,KuPS,0,1,,Runkosarja
+,07/29/1990,HJK,FC Haka,2,1,,Runkosarja
+,07/29/1990,Ilves,MP,0,0,,Runkosarja
+,07/29/1990,OTP,Kuusysi,1,2,,Runkosarja
+,07/29/1990,Reipas,KPV,0,1,,Runkosarja
+,07/29/1990,RoPS,Kumu,2,0,,Runkosarja
+,07/29/1990,TPS,KuPS,2,0,,Runkosarja
+,08/02/1990,FC Haka,TPS,3,2,,Runkosarja
+,08/02/1990,KPV,HJK,3,6,,Runkosarja
+,08/02/1990,Kumu,Ilves,1,1,,Runkosarja
+,08/02/1990,KuPS,Reipas,1,1,,Runkosarja
+,08/02/1990,Kuusysi,RoPS,2,1,,Runkosarja
+,08/02/1990,MP,OTP,0,0,,Runkosarja
+,08/05/1990,Ilves,HJK,1,1,,Runkosarja
+,08/05/1990,Kumu,KPV,0,1,,Runkosarja
+,08/05/1990,KuPS,MP,0,0,,Runkosarja
+,08/05/1990,Reipas,FC Haka,2,1,,Runkosarja
+,08/05/1990,RoPS,OTP,2,3,,Runkosarja
+,08/05/1990,TPS,Kuusysi,0,0,,Runkosarja
+,08/09/1990,HJK,Reipas,0,2,,Runkosarja
+,08/12/1990,FC Haka,RoPS,0,1,,Runkosarja
+,08/12/1990,KPV,TPS,0,3,,Runkosarja
+,08/12/1990,Kuusysi,KuPS,2,0,,Runkosarja
+,08/12/1990,MP,Kumu,1,1,,Runkosarja
+,08/12/1990,OTP,Ilves,0,5,,Runkosarja
+,08/19/1990,FC Haka,Kuusysi,0,2,,Runkosarja
+,08/19/1990,KuPS,Kumu,4,1,,Runkosarja
+,08/19/1990,MP,KPV,2,1,,Runkosarja
+,08/19/1990,OTP,HJK,0,1,,Runkosarja
+,08/19/1990,Reipas,TPS,2,3,,Runkosarja
+,08/19/1990,RoPS,Ilves,2,0,,Runkosarja
+,08/26/1990,HJK,KuPS,1,1,,Runkosarja
+,08/26/1990,Ilves,Reipas,2,2,,Runkosarja
+,08/26/1990,KPV,FC Haka,0,2,,Runkosarja
+,08/26/1990,Kumu,OTP,3,2,,Runkosarja
+,08/26/1990,Kuusysi,MP,1,2,,Runkosarja
+,08/26/1990,TPS,RoPS,1,0,,Runkosarja
+,09/02/1990,KuPS,Reipas,1,1,,Pudotuspelit
+,09/02/1990,Kuusysi,FC Haka,3,1,,Pudotuspelit
+,09/02/1990,RoPS,MP,1,1,,Pudotuspelit
+,09/02/1990,TPS,HJK,0,0,,Pudotuspelit
+,09/05/1990,FC Haka,Kuusysi,2,2,,Pudotuspelit
+,09/05/1990,MP,RoPS,1,2,,Pudotuspelit
+,09/05/1990,Reipas,KuPS,2,0,,Pudotuspelit
+,09/06/1990,HJK,TPS,2,1,,Pudotuspelit
+,09/09/1990,HJK,TPS,3,1,,Pudotuspelit
+,09/13/1990,RoPS,MP,0,1,,Pudotuspelit
+,09/16/1990,HJK,Reipas,3,2,,Pudotuspelit
+,09/16/1990,Kuusysi,MP,3,1,,Pudotuspelit
+,09/23/1990,MP,Kuusysi,0,1,,Pudotuspelit
+,09/23/1990,Reipas,HJK,2,3,,Pudotuspelit
+,09/30/1990,Kuusysi,HJK,1,1,,Pudotuspelit
+,10/07/1990,HJK,Kuusysi,1,0,,Pudotuspelit
+,10/07/1990,Reipas,MP,1,6,,Pudotuspelit
+,09/02/1990,OTP,KPV,2,1,,Uusintaottelu säilymisestä

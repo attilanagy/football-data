@@ -1,0 +1,173 @@
+round,date,home_team,away_team,home_score,away_score,stadium,stage
+,04/25/1999,FC Haka,HJK,1,0,,Runkosarja
+,04/25/1999,FC Jazz,Kotkan TP,1,1,,Runkosarja
+,04/25/1999,FC Jokerit,VPS,1,0,,Runkosarja
+,04/25/1999,FC Lahti,RoPS,1,0,,Runkosarja
+,04/25/1999,MYPA,FC Inter,0,1,,Runkosarja
+,04/25/1999,TPS,TPV,2,0,,Runkosarja
+,05/02/1999,FC Inter,FC Haka,0,1,,Runkosarja
+,05/02/1999,HJK,TPS,0,0,,Runkosarja
+,05/02/1999,Kotkan TP,RoPS,1,1,,Runkosarja
+,05/02/1999,TPV,FC Jazz,1,3,,Runkosarja
+,05/02/1999,VPS,MYPA,0,1,,Runkosarja
+,05/03/1999,FC Jokerit,FC Lahti,1,0,,Runkosarja
+,05/06/1999,FC Haka,MYPA,4,0,,Runkosarja
+,05/06/1999,FC Jazz,RoPS,2,0,,Runkosarja
+,05/06/1999,FC Lahti,FC Inter,3,2,,Runkosarja
+,05/06/1999,HJK,FC Jokerit,2,1,,Runkosarja
+,05/06/1999,Kotkan TP,TPV,1,0,,Runkosarja
+,05/06/1999,TPS,VPS,2,1,,Runkosarja
+,05/09/1999,FC Inter,FC Jazz,3,0,,Runkosarja
+,05/09/1999,FC Jokerit,RoPS,1,1,,Runkosarja
+,05/09/1999,FC Lahti,FC Haka,0,2,,Runkosarja
+,05/09/1999,MYPA,TPS,3,1,,Runkosarja
+,05/09/1999,TPV,HJK,0,1,,Runkosarja
+,05/10/1999,VPS,Kotkan TP,3,1,,Runkosarja
+,05/16/1999,FC Jazz,FC Lahti,3,0,,Runkosarja
+,05/16/1999,HJK,MYPA,2,0,,Runkosarja
+,05/16/1999,Kotkan TP,FC Inter,1,0,,Runkosarja
+,05/16/1999,RoPS,VPS,3,2,,Runkosarja
+,05/16/1999,TPS,FC Jokerit,1,1,,Runkosarja
+,05/17/1999,FC Haka,TPV,3,1,,Runkosarja
+,05/23/1999,FC Jokerit,Kotkan TP,1,0,,Runkosarja
+,05/23/1999,MYPA,FC Jazz,2,0,,Runkosarja
+,05/23/1999,RoPS,FC Haka,2,3,,Runkosarja
+,05/23/1999,TPV,FC Lahti,1,2,,Runkosarja
+,05/24/1999,HJK,VPS,3,0,,Runkosarja
+,05/24/1999,TPS,FC Inter,0,1,,Runkosarja
+,05/27/1999,FC Haka,FC Jokerit,2,2,,Runkosarja
+,05/27/1999,FC Inter,RoPS,2,2,,Runkosarja
+,05/27/1999,FC Jazz,TPS,3,2,,Runkosarja
+,05/27/1999,FC Lahti,MYPA,1,2,,Runkosarja
+,05/27/1999,Kotkan TP,HJK,1,1,,Runkosarja
+,05/27/1999,VPS,TPV,3,1,,Runkosarja
+,05/30/1999,MYPA,Kotkan TP,0,0,,Runkosarja
+,05/30/1999,TPS,FC Lahti,1,2,,Runkosarja
+,05/30/1999,TPV,FC Inter,0,0,,Runkosarja
+,05/30/1999,VPS,FC Haka,0,1,,Runkosarja
+,05/31/1999,FC Jazz,FC Jokerit,1,1,,Runkosarja
+,06/13/1999,FC Haka,FC Jazz,1,1,,Runkosarja
+,06/13/1999,FC Inter,HJK,2,7,,Runkosarja
+,06/13/1999,FC Lahti,VPS,2,1,,Runkosarja
+,06/13/1999,MYPA,FC Jokerit,2,0,,Runkosarja
+,06/13/1999,RoPS,TPV,2,2,,Runkosarja
+,06/14/1999,Kotkan TP,TPS,2,0,,Runkosarja
+,06/16/1999,FC Jokerit,FC Inter,0,1,,Runkosarja
+,06/16/1999,TPV,MYPA,2,2,,Runkosarja
+,06/17/1999,FC Haka,Kotkan TP,4,1,,Runkosarja
+,06/17/1999,HJK,FC Lahti,1,1,,Runkosarja
+,06/17/1999,RoPS,TPS,1,0,,Runkosarja
+,06/17/1999,VPS,FC Jazz,1,0,,Runkosarja
+,06/20/1999,FC Jazz,HJK,1,1,,Runkosarja
+,06/20/1999,FC Lahti,Kotkan TP,0,1,,Runkosarja
+,06/20/1999,MYPA,RoPS,1,1,,Runkosarja
+,06/20/1999,TPS,FC Haka,1,1,,Runkosarja
+,06/21/1999,FC Inter,VPS,3,1,,Runkosarja
+,06/23/1999,FC Jokerit,TPV,1,0,,Runkosarja
+,06/23/1999,RoPS,HJK,0,1,,Runkosarja
+,06/27/1999,FC Jazz,MYPA,3,0,,Runkosarja
+,06/27/1999,Kotkan TP,FC Lahti,0,1,,Runkosarja
+,06/27/1999,TPV,TPS,0,1,,Runkosarja
+,06/27/1999,VPS,RoPS,0,0,,Runkosarja
+,06/28/1999,HJK,FC Haka,0,1,,Runkosarja
+,06/30/1999,FC Inter,FC Jokerit,1,0,,Runkosarja
+,07/01/1999,FC Haka,FC Lahti,4,2,,Runkosarja
+,07/01/1999,HJK,TPV,2,0,,Runkosarja
+,07/01/1999,Kotkan TP,FC Jazz,0,1,,Runkosarja
+,07/01/1999,RoPS,MYPA,2,1,,Runkosarja
+,07/01/1999,VPS,TPS,0,2,,Runkosarja
+,07/04/1999,FC Jazz,VPS,0,1,,Runkosarja
+,07/04/1999,FC Lahti,TPV,1,1,,Runkosarja
+,07/04/1999,MYPA,HJK,0,3,,Runkosarja
+,07/04/1999,RoPS,FC Inter,3,1,,Runkosarja
+,07/04/1999,TPS,Kotkan TP,0,3,,Runkosarja
+,07/07/1999,FC Jokerit,FC Haka,1,0,,Runkosarja
+,07/08/1999,FC Inter,MYPA,1,2,,Runkosarja
+,07/11/1999,FC Haka,RoPS,0,0,,Runkosarja
+,07/11/1999,TPS,HJK,0,0,,Runkosarja
+,07/11/1999,VPS,FC Inter,0,2,,Runkosarja
+,07/12/1999,FC Lahti,FC Jazz,2,2,,Runkosarja
+,07/12/1999,TPV,Kotkan TP,2,0,,Runkosarja
+,07/14/1999,FC Jokerit,HJK,1,2,,Runkosarja
+,07/18/1999,HJK,FC Inter,0,1,,Runkosarja
+,07/18/1999,Kotkan TP,VPS,2,2,,Runkosarja
+,07/18/1999,TPS,FC Jazz,1,1,,Runkosarja
+,07/18/1999,TPV,FC Haka,0,3,,Runkosarja
+,07/19/1999,MYPA,FC Lahti,4,0,,Runkosarja
+,07/21/1999,RoPS,FC Jokerit,3,0,,Runkosarja
+,07/25/1999,FC Haka,VPS,2,0,,Runkosarja
+,07/25/1999,FC Inter,TPS,1,2,,Runkosarja
+,07/25/1999,HJK,Kotkan TP,3,1,,Runkosarja
+,07/25/1999,RoPS,FC Lahti,2,2,,Runkosarja
+,07/26/1999,FC Jazz,TPV,2,0,,Runkosarja
+,07/28/1999,FC Jokerit,MYPA,0,1,,Runkosarja
+,08/01/1999,FC Inter,Kotkan TP,0,0,,Runkosarja
+,08/01/1999,HJK,FC Jazz,4,1,,Runkosarja
+,08/01/1999,MYPA,FC Haka,1,2,,Runkosarja
+,08/01/1999,TPV,RoPS,0,2,,Runkosarja
+,08/02/1999,FC Lahti,TPS,1,2,,Runkosarja
+,08/02/1999,VPS,FC Jokerit,1,3,,Runkosarja
+,08/08/1999,FC Inter,FC Lahti,3,1,,Runkosarja
+,08/08/1999,FC Jazz,FC Haka,2,2,,Runkosarja
+,08/08/1999,MYPA,TPV,1,1,,Runkosarja
+,08/08/1999,VPS,HJK,0,1,,Runkosarja
+,08/09/1999,Kotkan TP,FC Jokerit,3,4,,Runkosarja
+,08/09/1999,TPS,RoPS,4,1,,Runkosarja
+,08/12/1999,FC Jokerit,FC Jazz,0,0,,Runkosarja
+,08/15/1999,FC Haka,FC Inter,1,0,,Runkosarja
+,08/15/1999,FC Lahti,FC Jokerit,0,1,,Runkosarja
+,08/15/1999,RoPS,Kotkan TP,1,2,,Runkosarja
+,08/15/1999,TPS,MYPA,2,3,,Runkosarja
+,08/15/1999,TPV,VPS,1,3,,Runkosarja
+,08/21/1999,HJK,RoPS,4,0,,Runkosarja
+,08/22/1999,FC Haka,TPS,5,2,,Runkosarja
+,08/22/1999,Kotkan TP,MYPA,0,0,,Runkosarja
+,08/22/1999,VPS,FC Lahti,2,1,,Runkosarja
+,08/23/1999,FC Jazz,FC Inter,1,1,,Runkosarja
+,08/23/1999,TPV,FC Jokerit,0,5,,Runkosarja
+,08/27/1999,FC Jokerit,TPS,1,1,,Runkosarja
+,08/29/1999,FC Inter,TPV,2,0,,Runkosarja
+,08/29/1999,FC Lahti,HJK,2,5,,Runkosarja
+,08/29/1999,Kotkan TP,FC Haka,1,0,,Runkosarja
+,08/29/1999,MYPA,VPS,1,1,,Runkosarja
+,08/29/1999,RoPS,FC Jazz,0,0,,Runkosarja
+,09/11/1999,FC Jokerit,RoPS,4,0,,Ylempi loppusarja
+,09/11/1999,Kotkan TP,MYPA,0,0,,Ylempi loppusarja
+,09/12/1999,FC Jazz,HJK,0,2,,Ylempi loppusarja
+,09/13/1999,FC Inter,FC Haka,0,3,,Ylempi loppusarja
+,09/18/1999,FC Haka,FC Jazz,0,0,,Ylempi loppusarja
+,09/18/1999,RoPS,FC Inter,0,5,,Ylempi loppusarja
+,09/19/1999,HJK,MYPA,2,1,,Ylempi loppusarja
+,09/20/1999,FC Jokerit,Kotkan TP,1,2,,Ylempi loppusarja
+,09/22/1999,HJK,FC Inter,2,1,,Ylempi loppusarja
+,09/22/1999,MYPA,RoPS,3,1,,Ylempi loppusarja
+,09/23/1999,FC Haka,FC Jokerit,2,0,,Ylempi loppusarja
+,09/23/1999,FC Jazz,Kotkan TP,1,0,,Ylempi loppusarja
+,09/25/1999,FC Inter,MYPA,0,2,,Ylempi loppusarja
+,09/25/1999,RoPS,HJK,0,1,,Ylempi loppusarja
+,09/26/1999,FC Jokerit,FC Jazz,1,1,,Ylempi loppusarja
+,09/27/1999,Kotkan TP,FC Haka,1,3,,Ylempi loppusarja
+,10/02/1999,FC Haka,RoPS,2,0,,Ylempi loppusarja
+,10/02/1999,MYPA,FC Jazz,4,1,,Ylempi loppusarja
+,10/03/1999,FC Inter,Kotkan TP,3,3,,Ylempi loppusarja
+,10/04/1999,HJK,FC Jokerit,2,1,,Ylempi loppusarja
+,10/13/1999,FC Inter,FC Jokerit,0,1,,Ylempi loppusarja
+,10/13/1999,HJK,Kotkan TP,1,0,,Ylempi loppusarja
+,10/13/1999,MYPA,FC Haka,0,0,,Ylempi loppusarja
+,10/13/1999,RoPS,FC Jazz,2,0,,Ylempi loppusarja
+,10/16/1999,FC Haka,HJK,1,0,,Ylempi loppusarja
+,10/16/1999,FC Jazz,FC Inter,1,1,,Ylempi loppusarja
+,10/16/1999,FC Jokerit,MYPA,1,2,,Ylempi loppusarja
+,10/16/1999,Kotkan TP,RoPS,1,1,,Ylempi loppusarja
+,09/11/1999,FC Lahti,TPS,0,3,,Alempi loppusarja
+,09/12/1999,TPV,VPS,3,1,,Alempi loppusarja
+,09/18/1999,VPS,FC Lahti,2,2,,Alempi loppusarja
+,09/19/1999,TPS,TPV,1,1,,Alempi loppusarja
+,09/22/1999,FC Lahti,TPV,4,3,,Alempi loppusarja
+,09/22/1999,TPS,VPS,1,1,,Alempi loppusarja
+,09/25/1999,VPS,TPS,1,2,,Alempi loppusarja
+,09/26/1999,TPV,FC Lahti,2,3,,Alempi loppusarja
+,10/02/1999,TPS,FC Lahti,0,0,,Alempi loppusarja
+,10/03/1999,VPS,TPV,3,1,,Alempi loppusarja
+,10/13/1999,FC Lahti,VPS,0,4,,Alempi loppusarja
+,10/13/1999,TPV,TPS,0,6,,Alempi loppusarja
